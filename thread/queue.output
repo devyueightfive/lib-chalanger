@@ -1,0 +1,126 @@
+The work is [5, 0, 4, 0, 8, 7, 5, 6, 2, 1, 7, 0, 9, 7, 7, 3, 4, 1, 3, 0].
+WorkRate equals 79.
+Threads are 2
+<GoodGoatWorker(Thread-1, started 25752)> starts ...
+<GoodGoatWorker(Thread-2, started 25756)> starts ...
+Main Thread. Queue size is 20
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 5
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 0
+Main Thread. Waiting threads... 
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 4
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 0
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 8
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 7
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 5
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 6
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 2
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 1
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 7
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 0
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 9
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 7
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 7
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 3
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 4
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 1
+3: <GoodGoatWorker(Thread-1, started 25752)> found work = 3
+3: <GoodGoatWorker(Thread-2, started 25756)> found work = 0
+Main Thread. Thank you Threads!! Queue size is 0
+!!!!! <GoodGoatWorker(Thread-2, started 25756)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-1, started 25752)>. Good bye!
+Bye Bye!!! 
+Time work is 40.00200009346008.
+
+
+
+
+The work is [5, 0, 4, 0, 8, 7, 5, 6, 2, 1, 7, 0, 9, 7, 7, 3, 4, 1, 3, 0].
+WorkRate equals 79.
+Threads are 5
+<GoodGoatWorker(Thread-3, started 25956)> starts ...
+<GoodGoatWorker(Thread-4, started 25960)> starts ...
+<GoodGoatWorker(Thread-5, started 25964)> starts ...
+<GoodGoatWorker(Thread-6, started 25968)> starts ...
+<GoodGoatWorker(Thread-7, started 25972)> starts ...
+Main Thread. Queue size is 20
+Main Thread. Waiting threads... 
+6: <GoodGoatWorker(Thread-3, started 25956)> found work = 5
+6: <GoodGoatWorker(Thread-5, started 25964)> found work = 0
+6: <GoodGoatWorker(Thread-5, started 25964)> found work = 4
+6: <GoodGoatWorker(Thread-6, started 25968)> found work = 0
+6: <GoodGoatWorker(Thread-6, started 25968)> found work = 8
+6: <GoodGoatWorker(Thread-7, started 25972)> found work = 7
+6: <GoodGoatWorker(Thread-4, started 25960)> found work = 5
+6: <GoodGoatWorker(Thread-5, started 25964)> found work = 6
+6: <GoodGoatWorker(Thread-3, started 25956)> found work = 2
+6: <GoodGoatWorker(Thread-4, started 25960)> found work = 1
+6: <GoodGoatWorker(Thread-4, started 25960)> found work = 7
+6: <GoodGoatWorker(Thread-7, started 25972)> found work = 0
+6: <GoodGoatWorker(Thread-3, started 25956)> found work = 9
+6: <GoodGoatWorker(Thread-7, started 25972)> found work = 7
+6: <GoodGoatWorker(Thread-6, started 25968)> found work = 7
+6: <GoodGoatWorker(Thread-5, started 25964)> found work = 3
+6: <GoodGoatWorker(Thread-5, started 25964)> found work = 4
+6: <GoodGoatWorker(Thread-4, started 25960)> found work = 1
+6: <GoodGoatWorker(Thread-7, started 25972)> found work = 3
+6: <GoodGoatWorker(Thread-4, started 25960)> found work = 0
+Main Thread. Thank you Threads!! Queue size is 0
+!!!!! <GoodGoatWorker(Thread-3, started 25956)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-6, started 25968)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-5, started 25964)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-4, started 25960)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-7, started 25972)>. Good bye!
+Bye Bye!!! 
+Time work is 17.00499987602234.
+
+
+
+
+The work is [5, 0, 4, 0, 8, 7, 5, 6, 2, 1, 7, 0, 9, 7, 7, 3, 4, 1, 3, 0].
+WorkRate equals 79.
+Threads are 10
+<GoodGoatWorker(Thread-8, started 26016)> starts ...
+<GoodGoatWorker(Thread-9, started 26020)> starts ...
+<GoodGoatWorker(Thread-10, started 26024)> starts ...
+<GoodGoatWorker(Thread-11, started 26028)> starts ...
+<GoodGoatWorker(Thread-12, started 26032)> starts ...
+<GoodGoatWorker(Thread-13, started 26036)> starts ...
+<GoodGoatWorker(Thread-14, started 26040)> starts ...
+<GoodGoatWorker(Thread-15, started 26044)> starts ...
+<GoodGoatWorker(Thread-16, started 26048)> starts ...
+<GoodGoatWorker(Thread-17, started 26052)> starts ...
+Main Thread. Queue size is 20
+Main Thread. Waiting threads... 
+11: <GoodGoatWorker(Thread-8, started 26016)> found work = 5
+11: <GoodGoatWorker(Thread-9, started 26020)> found work = 0
+11: <GoodGoatWorker(Thread-9, started 26020)> found work = 4
+11: <GoodGoatWorker(Thread-13, started 26036)> found work = 0
+11: <GoodGoatWorker(Thread-15, started 26044)> found work = 8
+11: <GoodGoatWorker(Thread-17, started 26052)> found work = 7
+11: <GoodGoatWorker(Thread-11, started 26028)> found work = 5
+11: <GoodGoatWorker(Thread-10, started 26024)> found work = 6
+11: <GoodGoatWorker(Thread-14, started 26040)> found work = 2
+11: <GoodGoatWorker(Thread-12, started 26032)> found work = 1
+11: <GoodGoatWorker(Thread-13, started 26036)> found work = 7
+11: <GoodGoatWorker(Thread-16, started 26048)> found work = 0
+11: <GoodGoatWorker(Thread-16, started 26048)> found work = 9
+11: <GoodGoatWorker(Thread-12, started 26032)> found work = 7
+11: <GoodGoatWorker(Thread-14, started 26040)> found work = 7
+11: <GoodGoatWorker(Thread-9, started 26020)> found work = 3
+11: <GoodGoatWorker(Thread-11, started 26028)> found work = 4
+11: <GoodGoatWorker(Thread-8, started 26016)> found work = 1
+11: <GoodGoatWorker(Thread-10, started 26024)> found work = 3
+11: <GoodGoatWorker(Thread-8, started 26016)> found work = 0
+Main Thread. Thank you Threads!! Queue size is 0
+!!!!! <GoodGoatWorker(Thread-16, started 26048)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-15, started 26044)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-12, started 26032)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-11, started 26028)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-10, started 26024)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-13, started 26036)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-17, started 26052)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-8, started 26016)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-9, started 26020)>. Good bye!
+!!!!! <GoodGoatWorker(Thread-14, started 26040)>. Good bye!
+Bye Bye!!! 
+Time work is 9.009000062942505.
