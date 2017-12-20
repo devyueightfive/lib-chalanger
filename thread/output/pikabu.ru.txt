@@ -17,7 +17,7 @@
 			
 				<script type="text/javascript">
 					// define initial parameters
-					var initParams = {"siteURL":"https:\/\/pikabu.ru\/","imgURL":"https:\/\/cs.pikabu.ru\/","userID":0,"userName":"","userKarma":0,"sessionID":"5oo7u165nbostiutg8f2327jp1ib5aqu","userBanTime":"","isUserBanned":false,"isStoryAnimPreview":true,"isCommAnimPreview":true,"isScrollTopBtn":true,"isAjaxLoadMode":true,"isExpandedMode":true,"isCommentsBranchesHidden":false,"scriptName":"index.php","privateKey":"MURsNU0w","uniqueBufferID":"83e7168e9f","registrationKey":"b7d580a884","debugLocation":"","pickedDate":"2017-12-20","pageNumber":1,"environment":225,"developmentMode":false,"filter_name":"hot_act","upload_server_url":"https:\/\/u.pikabu.ru","max_comments_branch_depth":3};
+					var initParams = {"siteURL":"https:\/\/pikabu.ru\/","imgURL":"https:\/\/cs.pikabu.ru\/","userID":0,"userName":"","userKarma":0,"sessionID":"n6hg8vn3l7ko27d9h7ehci0dn20a2el9","userBanTime":"","isUserBanned":false,"isStoryAnimPreview":true,"isCommAnimPreview":true,"isScrollTopBtn":true,"isAjaxLoadMode":true,"isExpandedMode":true,"isCommentsBranchesHidden":false,"scriptName":"index.php","privateKey":"T0RmZEoz","uniqueBufferID":"08fea943c7","registrationKey":"82a796c902","debugLocation":"","pickedDate":"2017-12-20","pageNumber":1,"environment":225,"developmentMode":false,"filter_name":"hot_act","upload_server_url":"https:\/\/u.pikabu.ru","max_comments_branch_depth":3};
 
 					/**
 					 * Create old global vars for back compatibility
@@ -236,7 +236,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572619" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				3643
+				4063
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -271,8 +271,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/prisposobilis_k_nashey_pochte_5572619#comments">261 Комментарий</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/pesopi">pesopi</a>
-					<div class="story__date" title="1513770229">6 часов назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/prisposobilis_k_nashey_pochte_5572619#comments">285 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/pesopi">pesopi</a>
+					<div class="story__date" title="1513770229">7 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -357,7 +357,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572854" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				2835
+				3251
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -390,8 +390,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/nastoyashchiy_dzhentlmen_5572854#comments">200 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/garik23">garik23</a>
-					<div class="story__date" title="1513776020">4 часа назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/nastoyashchiy_dzhentlmen_5572854#comments">223 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/garik23">garik23</a>
+					<div class="story__date" title="1513776020">5 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -482,7 +482,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572993" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				2812
+				3370
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -515,8 +515,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/pamyat_predkov_5572993#comments">203 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/g111">g111</a>
-					<div class="story__date" title="1513779696">3 часа назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/pamyat_predkov_5572993#comments">222 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/g111">g111</a>
+					<div class="story__date" title="1513779696">4 часа назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -585,7 +585,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572667" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				3402
+				3736
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -620,7 +620,7 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/moskva__khodyat_po_kvartiram_sobirayut_nomera_snils_5572667#comments">383 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Dyackon">Dyackon</a>
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/moskva__khodyat_po_kvartiram_sobirayut_nomera_snils_5572667#comments">402 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Dyackon">Dyackon</a>
 					<div class="story__date" title="1513771293">6 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
@@ -699,258 +699,6 @@
 				</div>
 				<!--story_5572667_end-->
 			
-				<!--story_5572473_start-->
-				<div class="story" data-story-id="5572473" data-visited="false" data-story-long="false">
-					<div class="story__left">
-				
-					<div class="story__rating-block" data-vote="0" data-story-id="5572473" data-can-vote="true">
-						<div class="story__rating-up" title="Поставить плюсик"></div>
-						<div class="story__rating-count">
-				6047
-						</div>
-						<div class="story__rating-down" title="Поставить минус"></div>
-					</div>
-				
-					<div class="story__scroll-wrapper">
-						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572473" data-story-long="false" data-story-type="text">
-								<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
-							</div>
-						</div>
-					</div>
-			
-				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
-				</div>
-			
-				<div class="story__main">
-					<div class="story__header">
-						<div class="story__header-title">
-			
-					<a href="https://pikabu.ru/story/yeto_zhe_ne_moe_imya_5572473" target="_blank"  class="story__title-link ">Это же не мое имя!</a>
-				
-					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
-				
-				</div>
-			
-				<div class="story__header-additional">
-			
-					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572473" data-story-long="false" data-story-type="text">
-						<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
-					</div>
-					<!--/noindex-->
-				
-				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/yeto_zhe_ne_moe_imya_5572473#comments">499 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/paracelce">paracelce</a>
-					<div class="story__date" title="1513766795">7 часов назад</div>&nbsp;
-				
-					<div class="story__tags">
-				
-							<a href="https://pikabu.ru/tag/%D7%E5%F5%E8%FF/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Чехия&quot;">
-								Чехия
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%F0%E0%E1%EE%F2%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;работа&quot;">
-								работа
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%F2%E5%EA%F1%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;текст&quot;">
-								текст
-							</a>
-						
-					</div>
-				
-					<div class="story__save i-sprite--comments__save" data-story-id="5572473" title="Сохранить" data-saved="false"></div>
-				
-					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
-					<!--noindex-->
-					<div class="story__share-buttons" style="display: none">
-				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_zhe_ne_moe_imya_5572473" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_zhe_ne_moe_imya_5572473" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_zhe_ne_moe_imya_5572473&text=%D0%AD%D1%82%D0%BE+%D0%B6%D0%B5+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B5+%D0%B8%D0%BC%D1%8F%21" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
-			
-					</div>
-					<!--/noindex-->
-				
-				</div>
-			
-							</div>
-						</div>
-					<div class="story__wrapper" style="display: block">
-			
-				<div class="b-story__content b-story__content_type_text" data-expanded="1">
-			<p>Зовут меня Николай. Работаю в Чехии. На работу пришел новый коллега - Павел (он - местный). В конце рабочего дня у нас с ним состоялся диалог:<br>П: Слушай, я это твое имя никак не запомню, можно я буду звать тебя Иваном?<br>Я: Чего? Тогда можно я буду называть тебя Вацлавом? <br>П: Почему Вацлавом? Это же не мое имя! <br>Я даже не нашелся, что ответить. </p>
-				</div>
-			
-				<div class="story__footer">
-			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5572473">
-						<li class="story__rating-up-small " data-rating="up">
-							<i class="i-sprite--comments__rating-up"></i>
-						</li>
-						<li class="story__rating-down-small " data-rating="down">
-							<i class="i-sprite--comments__rating-down"></i>
-						</li>
-					</ul>
-				
-					<div class="story__slide-up">свернуть</div>
-				</div>
-			
-						</div>
-					</div>
-			
-				</div>
-				<!--story_5572473_end-->
-			
-				<!--story_5572447_start-->
-				<div class="story" data-story-id="5572447" data-visited="false" data-story-long="false">
-					<div class="story__left">
-				
-					<div class="story__rating-block" data-vote="0" data-story-id="5572447" data-can-vote="true">
-						<div class="story__rating-up" title="Поставить плюсик"></div>
-						<div class="story__rating-count">
-				3137
-						</div>
-						<div class="story__rating-down" title="Поставить минус"></div>
-					</div>
-				
-					<div class="story__scroll-wrapper">
-						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572447" data-story-long="false" data-story-type="gtpost">
-								<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
-							</div>
-						</div>
-					</div>
-			
-				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
-				</div>
-			
-				<div class="story__main">
-					<div class="story__header">
-						<div class="story__header-title">
-			
-					<a href="https://pikabu.ru/story/yeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank"  class="story__title-link ">Это плохая идея, угрожать детям вооруженного гражданина.</a>
-				
-				</div>
-			
-				<div class="story__header-additional">
-			
-					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572447" data-story-long="false" data-story-type="gtpost">
-						<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
-					</div>
-					<!--/noindex-->
-				
-				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/yeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447#comments">702 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/eButcher">eButcher</a>
-					в <a href="/community/Guns_n_sDef">Оружие и самооборона</a>
-				
-					<div class="story__date" title="1513766175">7 часов назад</div>&nbsp;
-				
-					<div class="story__tags">
-				
-							<a href="https://pikabu.ru/tag/%D1%D8%C0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;США&quot;">
-								США
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%EE%F0%F3%E6%E8%E5/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;оружие&quot;">
-								оружие
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E2%EE%EE%F0%F3%E6%E5%ED%ED%E0%FF%20%F1%E0%EC%EE%EE%E1%EE%F0%EE%ED%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;вооруженная самооборона&quot;">
-								вооруженная самооборона
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E2%E8%E4%E5%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;видео&quot;">
-								видео
-							</a>
-						
-					</div>
-				
-					<div class="story__save i-sprite--comments__save" data-story-id="5572447" title="Сохранить" data-saved="false"></div>
-				
-					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
-					<!--noindex-->
-					<div class="story__share-buttons" style="display: none">
-				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447&text=%D0%AD%D1%82%D0%BE+%D0%BF%D0%BB%D0%BE%D1%85%D0%B0%D1%8F+%D0%B8%D0%B4%D0%B5%D1%8F%2C+%D1%83%D0%B3%D1%80%D0%BE%D0%B6%D0%B0%D1%82%D1%8C+%D0%B4%D0%B5%D1%82%D1%8F%D0%BC+%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0." target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
-			
-					</div>
-					<!--/noindex-->
-				
-				</div>
-			
-							</div>
-						</div>
-					<div class="story__wrapper" style="display: block">
-			
-				<div class="b-story__content b-story-blocks b-story-blocks_with-border" data-expanded="true">
-					<div class="b-story-blocks__wrapper" style="">
-			
-							<div class="b-story-block b-story-block_type_image">
-								<div class="b-story-block__content">
-						
-								<a href="https://pikabu.ru/story/yeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank"><img src="https://cs7.pikabu.ru/post_img/2017/12/20/7/151376610416263808.jpg" data-large-image="https://cs7.pikabu.ru/post_img/2017/12/20/7/151376610416263808.jpg" data-viewable="true" alt="Это плохая идея, угрожать детям вооруженного гражданина. США, оружие, вооруженная самооборона, видео" style="" data-height="400"></a>
-							
-								</div>
-							</div>
-						
-						<div class="b-story-block b-story-block_type_text">
-							<div class="b-story-block__content">
-								<p><p>В городе Сан-Антонио, штат Техас, вооруженный грабитель ворвался в закусочную. На его пути встретились молодые люди, которые выходили из туалета, и преступник направил на них оружие.</p><p><br></p><p>Это стало его последней ошибкой, так как отец семейства, увидев, что его дети в опасности, достал пистолет и пристрелил грабителя на месте.</p><p><br></p><p>По словам полиции, у отца есть разрешение на скрытое ношение оружия, и никакие обвинения ему не грозят.</p></p>
-							</div>
-						</div>
-					
-							<div class="b-story-block b-story-block_type_video">
-								<div class="b-story-block__content">
-									<div class="b-video" data-url="https://www.youtube.com/embed/jAkL8np7JfM" data-id="jAkL8np7JfM" data-ratio="1.78" data-duration="46">
-										<div class="b-video__state b-video__state_loading_yes"><i class="fa fa-circle-o-notch fa-spin"></i></div>
-										<div class="b-video__state b-video__state_waiting_yes" style="visibility: hidden;">
-											<span class="b-video__duration"></span>
-										</div>
-
-										<div class="b-video__preview b-video__preview_show_yes" style="background-image: url(https://cs8.pikabu.ru/video/2017/12/20/7/1513766178488768720.jpg); ">
-											<div class="b-video__logo"></div>
-											<div class="b-video__play i-sprite--gifx__play"></div>
-										</div>
-										<div class="b-video__player"></div>
-									</div>
-								</div>
-							</div>
-						
-						<div class="b-story-block b-story-block_type_text">
-							<div class="b-story-block__content">
-								<p><p><a href="https://zbroya.info/ru/blog/14438_eto-plokhaia-ideia-ugrozhat-detiam-vooruzhennogo-grazhdanina/" target="_blank" rel="nofollow noopener"><b>Источник</b></a></p></p>
-							</div>
-						</div>
-					
-				</div>
-			
-				</div>
-			
-				<div class="story__footer">
-			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5572447">
-						<li class="story__rating-up-small " data-rating="up">
-							<i class="i-sprite--comments__rating-up"></i>
-						</li>
-						<li class="story__rating-down-small " data-rating="down">
-							<i class="i-sprite--comments__rating-down"></i>
-						</li>
-					</ul>
-				
-					<div class="story__slide-up">свернуть</div>
-				</div>
-			
-						</div>
-					</div>
-			
-				</div>
-				<!--story_5572447_end-->
-			
 				<!--story_5572880_start-->
 				<div class="story" data-story-id="5572880" data-visited="false" data-story-long="false">
 					<div class="story__left">
@@ -958,7 +706,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572880" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				2044
+				2379
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -991,8 +739,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/milyiy_novogodniy_enot_5572880#comments">60 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Santander">Santander</a>
-					<div class="story__date" title="1513776655">4 часа назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/milyiy_novogodniy_enot_5572880#comments">73 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Santander">Santander</a>
+					<div class="story__date" title="1513776655">5 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -1088,6 +836,110 @@
 				</div>
 				<!--story_5572880_end-->
 			
+				<!--story_5572473_start-->
+				<div class="story" data-story-id="5572473" data-visited="false" data-story-long="false">
+					<div class="story__left">
+				
+					<div class="story__rating-block" data-vote="0" data-story-id="5572473" data-can-vote="true">
+						<div class="story__rating-up" title="Поставить плюсик"></div>
+						<div class="story__rating-count">
+				6495
+						</div>
+						<div class="story__rating-down" title="Поставить минус"></div>
+					</div>
+				
+					<div class="story__scroll-wrapper">
+						<div class="story__scroll">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572473" data-story-long="false" data-story-type="text">
+								<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+							</div>
+						</div>
+					</div>
+			
+				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
+				</div>
+			
+				<div class="story__main">
+					<div class="story__header">
+						<div class="story__header-title">
+			
+					<a href="https://pikabu.ru/story/yeto_zhe_ne_moe_imya_5572473" target="_blank"  class="story__title-link ">Это же не мое имя!</a>
+				
+					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
+				
+				</div>
+			
+				<div class="story__header-additional">
+			
+					<!--noindex-->
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572473" data-story-long="false" data-story-type="text">
+						<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+					</div>
+					<!--/noindex-->
+				
+				<div class="story__header-additional-wrapper">
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/yeto_zhe_ne_moe_imya_5572473#comments">535 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/paracelce">paracelce</a>
+					<div class="story__date" title="1513766795">8 часов назад</div>&nbsp;
+				
+					<div class="story__tags">
+				
+							<a href="https://pikabu.ru/tag/%D7%E5%F5%E8%FF/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Чехия&quot;">
+								Чехия
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%F0%E0%E1%EE%F2%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;работа&quot;">
+								работа
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%F2%E5%EA%F1%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;текст&quot;">
+								текст
+							</a>
+						
+					</div>
+				
+					<div class="story__save i-sprite--comments__save" data-story-id="5572473" title="Сохранить" data-saved="false"></div>
+				
+					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
+					<!--noindex-->
+					<div class="story__share-buttons" style="display: none">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_zhe_ne_moe_imya_5572473" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_zhe_ne_moe_imya_5572473" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_zhe_ne_moe_imya_5572473&text=%D0%AD%D1%82%D0%BE+%D0%B6%D0%B5+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B5+%D0%B8%D0%BC%D1%8F%21" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+			
+					</div>
+					<!--/noindex-->
+				
+				</div>
+			
+							</div>
+						</div>
+					<div class="story__wrapper" style="display: block">
+			
+				<div class="b-story__content b-story__content_type_text" data-expanded="1">
+			<p>Зовут меня Николай. Работаю в Чехии. На работу пришел новый коллега - Павел (он - местный). В конце рабочего дня у нас с ним состоялся диалог:<br>П: Слушай, я это твое имя никак не запомню, можно я буду звать тебя Иваном?<br>Я: Чего? Тогда можно я буду называть тебя Вацлавом? <br>П: Почему Вацлавом? Это же не мое имя! <br>Я даже не нашелся, что ответить. </p>
+				</div>
+			
+				<div class="story__footer">
+			
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5572473">
+						<li class="story__rating-up-small " data-rating="up">
+							<i class="i-sprite--comments__rating-up"></i>
+						</li>
+						<li class="story__rating-down-small " data-rating="down">
+							<i class="i-sprite--comments__rating-down"></i>
+						</li>
+					</ul>
+				
+					<div class="story__slide-up">свернуть</div>
+				</div>
+			
+						</div>
+					</div>
+			
+				</div>
+				<!--story_5572473_end-->
+			
 				<!--story_5572636_start-->
 				<div class="story" data-story-id="5572636" data-visited="false" data-story-long="true">
 					<div class="story__left">
@@ -1095,7 +947,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572636" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				1284
+				1496
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -1130,8 +982,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/poddelnaya_krasnaya_ikra_5572636#comments">236 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/SUNM4N">SUNM4N</a>
-					<div class="story__date" title="1513770674">6 часов назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/poddelnaya_krasnaya_ikra_5572636#comments">262 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/SUNM4N">SUNM4N</a>
+					<div class="story__date" title="1513770674">7 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -1280,22 +1132,22 @@
 				</div>
 				<!--story_5572636_end-->
 			
-				<!--story_5572189_start-->
-				<div class="story" data-story-id="5572189" data-visited="false" data-story-long="false">
+				<!--story_5572447_start-->
+				<div class="story" data-story-id="5572447" data-visited="false" data-story-long="false">
 					<div class="story__left">
 				
-					<div class="story__rating-block" data-vote="0" data-story-id="5572189" data-can-vote="true">
+					<div class="story__rating-block" data-vote="0" data-story-id="5572447" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				3817
+				3375
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
 				
 					<div class="story__scroll-wrapper">
 						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572189" data-story-long="false" data-story-type="text">
-								<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572447" data-story-long="false" data-story-type="gtpost">
+								<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
 							</div>
 						</div>
 					</div>
@@ -1307,63 +1159,53 @@
 					<div class="story__header">
 						<div class="story__header-title">
 			
-					<a href="https://pikabu.ru/story/volshebnik_v_belom_khalate_5572189" target="_blank"  class="story__title-link ">Волшебник в белом халате</a>
-				
-					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
+					<a href="https://pikabu.ru/story/yeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank"  class="story__title-link ">Это плохая идея, угрожать детям вооруженного гражданина.</a>
 				
 				</div>
 			
 				<div class="story__header-additional">
 			
 					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572189" data-story-long="false" data-story-type="text">
-						<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572447" data-story-long="false" data-story-type="gtpost">
+						<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
 					</div>
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/volshebnik_v_belom_khalate_5572189#comments">253 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/smile2">smile2</a>
-					в <a href="/community/true_story">Истории из жизни</a>
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/yeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447#comments">731 Комментарий</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/eButcher">eButcher</a>
+					в <a href="/community/Guns_n_sDef">Оружие и самооборона</a>
 				
-					<div class="story__date" title="1513759741">9 часов назад</div>&nbsp;
+					<div class="story__date" title="1513766175">8 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
-							<a href="https://pikabu.ru/tag/%E4%E5%F2%F1%F2%E2%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;детство&quot;">
-								детство
+							<a href="https://pikabu.ru/tag/%D1%D8%C0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;США&quot;">
+								США
 							</a>
 						
-							<a href="https://pikabu.ru/tag/%E1%EE%EB%FC%ED%E8%F6%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;больница&quot;">
-								больница
+							<a href="https://pikabu.ru/tag/%EE%F0%F3%E6%E8%E5/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;оружие&quot;">
+								оружие
 							</a>
 						
-							<a href="https://pikabu.ru/tag/%F7%F3%E4%E5%F1%ED%EE%E5%20%E8%F1%F6%E5%EB%E5%ED%E8%E5/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;чудесное исцеление&quot;">
-								чудесное исцеление
+							<a href="https://pikabu.ru/tag/%E2%EE%EE%F0%F3%E6%E5%ED%ED%E0%FF%20%F1%E0%EC%EE%EE%E1%EE%F0%EE%ED%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;вооруженная самооборона&quot;">
+								вооруженная самооборона
 							</a>
 						
-							<a href="https://pikabu.ru/tag/%F2%E5%EA%F1%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;текст&quot;">
-								текст
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E8%F1%F2%EE%F0%E8%FF/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;история&quot;">
-								история
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E6%E8%E7%ED%FC/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;жизнь&quot;">
-								жизнь
+							<a href="https://pikabu.ru/tag/%E2%E8%E4%E5%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;видео&quot;">
+								видео
 							</a>
 						
 					</div>
 				
-					<div class="story__save i-sprite--comments__save" data-story-id="5572189" title="Сохранить" data-saved="false"></div>
+					<div class="story__save i-sprite--comments__save" data-story-id="5572447" title="Сохранить" data-saved="false"></div>
 				
 					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
 					<!--noindex-->
 					<div class="story__share-buttons" style="display: none">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvolshebnik_v_belom_khalate_5572189" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvolshebnik_v_belom_khalate_5572189" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvolshebnik_v_belom_khalate_5572189&text=%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D0%B2+%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC+%D1%85%D0%B0%D0%BB%D0%B0%D1%82%D0%B5" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fyeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447&text=%D0%AD%D1%82%D0%BE+%D0%BF%D0%BB%D0%BE%D1%85%D0%B0%D1%8F+%D0%B8%D0%B4%D0%B5%D1%8F%2C+%D1%83%D0%B3%D1%80%D0%BE%D0%B6%D0%B0%D1%82%D1%8C+%D0%B4%D0%B5%D1%82%D1%8F%D0%BC+%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0." target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
 			
 					</div>
 					<!--/noindex-->
@@ -1374,13 +1216,53 @@
 						</div>
 					<div class="story__wrapper" style="display: block">
 			
-				<div class="b-story__content b-story__content_type_text" data-expanded="1">
-			<p>В десять лет я попал в больницу, где стал свидетелем волшебного исцеления человека. </p><p>В одной палате лежала девочка у которой была сломана нога. Когда кости срослись, гипс сняли, её все равно не выписали, потому что её нога перестала сгибаться в колене. Развлечений в больнице мало, поэтому в компании таких же выздоравливающих, я ходил смотреть на обход, проводимый молодым хирургом. Наблюдать, как он с кем-то шутит, кого-то ругает, для умирающих от скуки пацанов было нормальным развлечением. </p><p><br></p><p>Как сейчас помню, садится он на край кровати этой девочки и серьезно спрашивает:</p><p>- Как нога, не болит?</p><p>Девочка лежит откинувшись на подушках, словно смертельно больная и тихим жалостливым голосом отвечает:</p><p>- Не болит, но согнуть её не могу.</p><p>- Как это не можешь? - удивляется доктор, - Я на снимок смотрел, у тебя там все в порядке. Попробуй!</p><p><br></p><p>Девочка садится и пробует согнуть ногу, та не гнется. Она старается изо всех сил, помогает себе руками, но все безуспешно. </p><p>- Вот видите, не получается, -говорит она голосом полным вселенской печали. </p><p>- Жаль, - весело отвечает молодой хирург, который не разделяет её горе – придется снова ломать!&nbsp; Прямо сейчас и сломаем!</p><p><br></p><p>Говоря это, он тянется к её ноге. Девочка визжит, пытается отодвинутся, но упирается спиной в угол, образованный стеной и спинкой кровати. Несгибающаяся нога при этом продолжает оставаться выпрямленной. Доктор не спеша, словно в замедленной съемке, приближая ладонь к ноге, приговаривает:</p><p>- Не бойся, это не страшно, хрусь и все!</p><p><br></p><p>Однако девочка не верит доброму доктору и пытается спрятать от него &#xAB;больную&#xBB; ногу. </p><p>От ужаса забилась полностью в угол, даже не заметив, что при этом обе её ноги прекрасно согнулись и прижаты к телу.</p><p>- Замечательно! – воскликнул молодой хирург, так и не дотронувшийся до неё – Готовься к выписке. Брысь отсюда! Сеанс чудесного исцеления закончен!</p><p><br></p><p>Это он уже нам сказал. Мы посторонились, пропуская доктора, он пошел дальше в следующую палату, а мы смотрели на девочку которая размазывая слезы по щекам, приговаривала:</p><p>- Что же я теперь маме скажу? Она же меня убьет!</p><p><br></p><p>Тогда я впервые столкнулся с тем, что мама может сильно разозлится и даже наказать дочь, за то, что та выздоровела слишком быстро. Я узнал, что есть такой загадочный и непостижимый детскому уму народ – цыгане.</p>
+				<div class="b-story__content b-story-blocks b-story-blocks_with-border" data-expanded="true">
+					<div class="b-story-blocks__wrapper" style="">
+			
+							<div class="b-story-block b-story-block_type_image">
+								<div class="b-story-block__content">
+						
+								<a href="https://pikabu.ru/story/yeto_plokhaya_ideya_ugrozhat_detyam_vooruzhennogo_grazhdanina_5572447" target="_blank"><img src="https://cs7.pikabu.ru/post_img/2017/12/20/7/151376610416263808.jpg" data-large-image="https://cs7.pikabu.ru/post_img/2017/12/20/7/151376610416263808.jpg" data-viewable="true" alt="Это плохая идея, угрожать детям вооруженного гражданина. США, оружие, вооруженная самооборона, видео" style="" data-height="400"></a>
+							
+								</div>
+							</div>
+						
+						<div class="b-story-block b-story-block_type_text">
+							<div class="b-story-block__content">
+								<p><p>В городе Сан-Антонио, штат Техас, вооруженный грабитель ворвался в закусочную. На его пути встретились молодые люди, которые выходили из туалета, и преступник направил на них оружие.</p><p><br></p><p>Это стало его последней ошибкой, так как отец семейства, увидев, что его дети в опасности, достал пистолет и пристрелил грабителя на месте.</p><p><br></p><p>По словам полиции, у отца есть разрешение на скрытое ношение оружия, и никакие обвинения ему не грозят.</p></p>
+							</div>
+						</div>
+					
+							<div class="b-story-block b-story-block_type_video">
+								<div class="b-story-block__content">
+									<div class="b-video" data-url="https://www.youtube.com/embed/jAkL8np7JfM" data-id="jAkL8np7JfM" data-ratio="1.78" data-duration="46">
+										<div class="b-video__state b-video__state_loading_yes"><i class="fa fa-circle-o-notch fa-spin"></i></div>
+										<div class="b-video__state b-video__state_waiting_yes" style="visibility: hidden;">
+											<span class="b-video__duration"></span>
+										</div>
+
+										<div class="b-video__preview b-video__preview_show_yes" style="background-image: url(https://cs8.pikabu.ru/video/2017/12/20/7/1513766178488768720.jpg); ">
+											<div class="b-video__logo"></div>
+											<div class="b-video__play i-sprite--gifx__play"></div>
+										</div>
+										<div class="b-video__player"></div>
+									</div>
+								</div>
+							</div>
+						
+						<div class="b-story-block b-story-block_type_text">
+							<div class="b-story-block__content">
+								<p><p><a href="https://zbroya.info/ru/blog/14438_eto-plokhaia-ideia-ugrozhat-detiam-vooruzhennogo-grazhdanina/" target="_blank" rel="nofollow noopener"><b>Источник</b></a></p></p>
+							</div>
+						</div>
+					
+				</div>
+			
 				</div>
 			
 				<div class="story__footer">
 			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5572189">
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5572447">
 						<li class="story__rating-up-small " data-rating="up">
 							<i class="i-sprite--comments__rating-up"></i>
 						</li>
@@ -1396,7 +1278,7 @@
 					</div>
 			
 				</div>
-				<!--story_5572189_end-->
+				<!--story_5572447_end-->
 			
 				<!--story_5572751_start-->
 				<div class="story" data-story-id="5572751" data-visited="false" data-story-long="false">
@@ -1405,7 +1287,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572751" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				2007
+				2429
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -1440,8 +1322,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/khoroshaya_religiya_5572751#comments">83 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/veriegon">veriegon</a>
-					<div class="story__date" title="1513773808">5 часов назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/khoroshaya_religiya_5572751#comments">103 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/veriegon">veriegon</a>
+					<div class="story__date" title="1513773808">6 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -1506,6 +1388,266 @@
 				</div>
 				<!--story_5572751_end-->
 			
+				<!--story_5573345_start-->
+				<div class="story" data-story-id="5573345" data-visited="false" data-story-long="false">
+					<div class="story__left">
+				
+					<div class="story__rating-block" data-vote="0" data-story-id="5573345" data-can-vote="true">
+						<div class="story__rating-up" title="Поставить плюсик"></div>
+						<div class="story__rating-count">
+				909
+						</div>
+						<div class="story__rating-down" title="Поставить минус"></div>
+					</div>
+				
+					<div class="story__scroll-wrapper">
+						<div class="story__scroll">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5573345" data-story-long="false" data-story-type="gtpost">
+								<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
+							</div>
+						</div>
+					</div>
+			
+				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
+				</div>
+			
+				<div class="story__main">
+					<div class="story__header">
+						<div class="story__header-title">
+			
+					<a href="https://pikabu.ru/story/moya_lichnaya_nagrada_5573345" target="_blank"  class="story__title-link ">Моя личная награда!</a>
+				
+					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
+				
+				</div>
+			
+				<div class="story__header-additional">
+			
+					<!--noindex-->
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5573345" data-story-long="false" data-story-type="gtpost">
+						<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
+					</div>
+					<!--/noindex-->
+				
+				<div class="story__header-additional-wrapper">
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/moya_lichnaya_nagrada_5573345#comments">78 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/proudman">proudman</a>
+					<div class="story__date" title="1513787729">2 часа назад</div>&nbsp;
+				
+					<div class="story__tags">
+				
+							<a href="https://pikabu.ru/tag/%E8%ED%E2%E0%EB%E8%E4/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;инвалид&quot;">
+								инвалид
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%E0%F7%E8%E2%EA%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;ачивка&quot;">
+								ачивка
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%EC%EE%F2%E8%E2%E0%F6%E8%FF/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;мотивация&quot;">
+								мотивация
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%ED%E0%E3%F0%E0%E4%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;награда&quot;">
+								награда
+							</a>
+						
+					</div>
+				
+					<div class="story__save i-sprite--comments__save" data-story-id="5573345" title="Сохранить" data-saved="false"></div>
+				
+					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
+					<!--noindex-->
+					<div class="story__share-buttons" style="display: none">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fmoya_lichnaya_nagrada_5573345" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fmoya_lichnaya_nagrada_5573345" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fmoya_lichnaya_nagrada_5573345&text=%D0%9C%D0%BE%D1%8F+%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0%21" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+			
+					</div>
+					<!--/noindex-->
+				
+				</div>
+			
+							</div>
+						</div>
+					<div class="story__wrapper" style="display: block">
+			
+				<div class="b-story__content b-story-blocks b-story-blocks_with-border" data-expanded="true">
+					<div class="b-story-blocks__wrapper" style="">
+			
+						<div class="b-story-block b-story-block_type_text">
+							<div class="b-story-block__content">
+								<p><p>Привет всем! Для тех, кто не знаком со мной - я инвалид. У меня нет рук и ног. Иногда я выкладываю сюда посты связанные как с моим творчеством, так и с моей инвалидностью. </p><p><br></p><p>Не знаю, принято ли здесь хвалиться, но буквально с час назад получил вот такую вот ачивку, за что очень благодарен вам всем! Связано это с тем, что с сентября месяца я начал активно публиковать посты о себе - кто я, почему так вышло и как я с этим живу. </p><p><br></p><p>Мне очень приятно, что вы меня читаете! Очень радует, что кого то я мотивирую! </p></p>
+							</div>
+						</div>
+					
+							<div class="b-story-block b-story-block_type_image">
+								<div class="b-story-block__content b-story-block__content_margin">
+						
+								<a href="https://pikabu.ru/story/moya_lichnaya_nagrada_5573345" target="_blank"><img src="https://cs7.pikabu.ru/post_img/2017/12/20/10/1513787393126830478.jpg" data-large-image="https://cs7.pikabu.ru/post_img/2017/12/20/10/1513787393126830478.jpg" data-viewable="true" alt="Моя личная награда! инвалид, ачивка, мотивация, награда" style="" data-height="42"></a>
+							
+								</div>
+							</div>
+						
+							<div class="b-story-block b-story-block_type_image">
+								<div class="b-story-block__content">
+						
+								<a href="https://pikabu.ru/story/moya_lichnaya_nagrada_5573345" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/20/10/1513787394158968884.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/20/10/1513787394158968884.jpg" data-viewable="true" alt="Моя личная награда! инвалид, ачивка, мотивация, награда" style="" data-height="59"></a>
+							
+								</div>
+							</div>
+						
+						<div class="b-story-block b-story-block_type_text">
+							<div class="b-story-block__content">
+								<p><p>Котиков не будет. Будет текст (немного черный):</p><p><br></p><p>Люблю принимать ванну, ведь я помещаюсь в ней целиком.</p><p><br></p><p>Всем добра ;-)</p></p>
+							</div>
+						</div>
+					
+				</div>
+			
+				</div>
+			
+				<div class="story__footer">
+			
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5573345">
+						<li class="story__rating-up-small " data-rating="up">
+							<i class="i-sprite--comments__rating-up"></i>
+						</li>
+						<li class="story__rating-down-small " data-rating="down">
+							<i class="i-sprite--comments__rating-down"></i>
+						</li>
+					</ul>
+				
+					<div class="story__slide-up">свернуть</div>
+				</div>
+			
+						</div>
+					</div>
+			
+				</div>
+				<!--story_5573345_end-->
+			
+				<!--story_5573024_start-->
+				<div class="story" data-story-id="5573024" data-visited="false" data-story-long="false">
+					<div class="story__left">
+				
+					<div class="story__rating-block" data-vote="0" data-story-id="5573024" data-can-vote="true">
+						<div class="story__rating-up" title="Поставить плюсик"></div>
+						<div class="story__rating-count">
+				1171
+						</div>
+						<div class="story__rating-down" title="Поставить минус"></div>
+					</div>
+				
+					<div class="story__scroll-wrapper">
+						<div class="story__scroll">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5573024" data-story-long="false" data-story-type="gtpost">
+								<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
+							</div>
+						</div>
+					</div>
+			
+				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
+				</div>
+			
+				<div class="story__main">
+					<div class="story__header">
+						<div class="story__header-title">
+			
+					<a href="https://pikabu.ru/story/spetsialno_obuchennyiy_chelovek_5573024" target="_blank"  class="story__title-link ">Специально обученный человек</a>
+				
+					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
+				
+				</div>
+			
+				<div class="story__header-additional">
+			
+					<!--noindex-->
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5573024" data-story-long="false" data-story-type="gtpost">
+						<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
+					</div>
+					<!--/noindex-->
+				
+				<div class="story__header-additional-wrapper">
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/spetsialno_obuchennyiy_chelovek_5573024#comments">165 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/PupoK17">PupoK17</a>
+					<div class="story__date" title="1513780252">4 часа назад</div>&nbsp;
+				
+					<div class="story__tags">
+				
+							<a href="https://pikabu.ru/tag/%F1%E5%F0%B8%E3%E0%20%F3%EC%E5%E5%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;серёга умеет&quot;">
+								серёга умеет
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%EC%FF%F1%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;мясо&quot;">
+								мясо
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%E3%EE%EB%F3%E1%FC%20%E3%E5%ED%ED%E0%E4%E8%E9/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;голубь геннадий&quot;">
+								голубь геннадий
+							</a>
+						
+					</div>
+				
+					<div class="story__save i-sprite--comments__save" data-story-id="5573024" title="Сохранить" data-saved="false"></div>
+				
+					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
+					<!--noindex-->
+					<div class="story__share-buttons" style="display: none">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fspetsialno_obuchennyiy_chelovek_5573024" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fspetsialno_obuchennyiy_chelovek_5573024" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fspetsialno_obuchennyiy_chelovek_5573024&text=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+			
+					</div>
+					<!--/noindex-->
+				
+				</div>
+			
+							</div>
+						</div>
+					<div class="story__wrapper" style="display: block">
+			
+				<div class="b-story__content b-story-blocks b-story-blocks_with-border" data-expanded="true">
+					<div class="b-story-blocks__wrapper" style="">
+			
+						<div class="b-story-block b-story-block_type_text">
+							<div class="b-story-block__content">
+								<p><p>Работая на одном из крупных предприятий наблюдал картину: в цех залетает голубь. Это Очень серьёзное нарушение на мясокомбинатах.</p><p>Потолки высокие и его не могут выгнать, а производственный процесс идет. Локальную проверку ждем какой-то ТСети. и тут один из активистов пытающихся выгнать голубя уходит в поисках некоего Серёги который "умеет". </p><p><br></p><p>Приходят с Серёгой у которого есть заранее изготовленное устройство и судя по меткости уже даже пристрелянное (см.фото). И этот Серёга при помощи данного инструмента сделанного из рукояти от швабры используя свои лёгкие со второго раза попадает в голубя шилом, которое для этих целей сам и изготовил. Жалко, что голубь в кадр не попал. Поторопился я на секунду.</p></p>
+							</div>
+						</div>
+					
+							<div class="b-story-block b-story-block_type_image">
+								<div class="b-story-block__content">
+						
+								<a href="https://pikabu.ru/story/spetsialno_obuchennyiy_chelovek_5573024" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/20/9/15137800931745276.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/20/9/15137800931745276.jpg" data-viewable="true" alt="Специально обученный человек серёга умеет, мясо, голубь геннадий" style="" data-height="393"></a>
+							
+								</div>
+							</div>
+						
+				</div>
+			
+				</div>
+			
+				<div class="story__footer">
+			
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5573024">
+						<li class="story__rating-up-small " data-rating="up">
+							<i class="i-sprite--comments__rating-up"></i>
+						</li>
+						<li class="story__rating-down-small " data-rating="down">
+							<i class="i-sprite--comments__rating-down"></i>
+						</li>
+					</ul>
+				
+					<div class="story__slide-up">свернуть</div>
+				</div>
+			
+						</div>
+					</div>
+			
+				</div>
+				<!--story_5573024_end-->
+			
 				<!--story_5572892_start-->
 				<div class="story" data-story-id="5572892" data-visited="false" data-story-long="false">
 					<div class="story__left">
@@ -1513,7 +1655,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572892" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				1222
+				1471
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -1546,8 +1688,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/chekhova_pushkinskaya_i_tak_kazhdyiy_den__5572892#comments">102 Комментария</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/rostovnadonu">rostovnadonu</a>
-					<div class="story__date" title="1513776999">4 часа назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/chekhova_pushkinskaya_i_tak_kazhdyiy_den__5572892#comments">118 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/rostovnadonu">rostovnadonu</a>
+					<div class="story__date" title="1513776999">5 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -1629,6 +1771,124 @@
 				</div>
 				<!--story_5572892_end-->
 			
+				<!--story_5572189_start-->
+				<div class="story" data-story-id="5572189" data-visited="false" data-story-long="false">
+					<div class="story__left">
+				
+					<div class="story__rating-block" data-vote="0" data-story-id="5572189" data-can-vote="true">
+						<div class="story__rating-up" title="Поставить плюсик"></div>
+						<div class="story__rating-count">
+				3998
+						</div>
+						<div class="story__rating-down" title="Поставить минус"></div>
+					</div>
+				
+					<div class="story__scroll-wrapper">
+						<div class="story__scroll">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572189" data-story-long="false" data-story-type="text">
+								<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+							</div>
+						</div>
+					</div>
+			
+				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
+				</div>
+			
+				<div class="story__main">
+					<div class="story__header">
+						<div class="story__header-title">
+			
+					<a href="https://pikabu.ru/story/volshebnik_v_belom_khalate_5572189" target="_blank"  class="story__title-link ">Волшебник в белом халате</a>
+				
+					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
+				
+				</div>
+			
+				<div class="story__header-additional">
+			
+					<!--noindex-->
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572189" data-story-long="false" data-story-type="text">
+						<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+					</div>
+					<!--/noindex-->
+				
+				<div class="story__header-additional-wrapper">
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/volshebnik_v_belom_khalate_5572189#comments">259 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/smile2">smile2</a>
+					в <a href="/community/true_story">Истории из жизни</a>
+				
+					<div class="story__date" title="1513759741">10 часов назад</div>&nbsp;
+				
+					<div class="story__tags">
+				
+							<a href="https://pikabu.ru/tag/%E4%E5%F2%F1%F2%E2%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;детство&quot;">
+								детство
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%E1%EE%EB%FC%ED%E8%F6%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;больница&quot;">
+								больница
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%F7%F3%E4%E5%F1%ED%EE%E5%20%E8%F1%F6%E5%EB%E5%ED%E8%E5/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;чудесное исцеление&quot;">
+								чудесное исцеление
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%F2%E5%EA%F1%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;текст&quot;">
+								текст
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%E8%F1%F2%EE%F0%E8%FF/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;история&quot;">
+								история
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%E6%E8%E7%ED%FC/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;жизнь&quot;">
+								жизнь
+							</a>
+						
+					</div>
+				
+					<div class="story__save i-sprite--comments__save" data-story-id="5572189" title="Сохранить" data-saved="false"></div>
+				
+					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
+					<!--noindex-->
+					<div class="story__share-buttons" style="display: none">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvolshebnik_v_belom_khalate_5572189" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvolshebnik_v_belom_khalate_5572189" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvolshebnik_v_belom_khalate_5572189&text=%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA+%D0%B2+%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC+%D1%85%D0%B0%D0%BB%D0%B0%D1%82%D0%B5" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+			
+					</div>
+					<!--/noindex-->
+				
+				</div>
+			
+							</div>
+						</div>
+					<div class="story__wrapper" style="display: block">
+			
+				<div class="b-story__content b-story__content_type_text" data-expanded="1">
+			<p>В десять лет я попал в больницу, где стал свидетелем волшебного исцеления человека. </p><p>В одной палате лежала девочка у которой была сломана нога. Когда кости срослись, гипс сняли, её все равно не выписали, потому что её нога перестала сгибаться в колене. Развлечений в больнице мало, поэтому в компании таких же выздоравливающих, я ходил смотреть на обход, проводимый молодым хирургом. Наблюдать, как он с кем-то шутит, кого-то ругает, для умирающих от скуки пацанов было нормальным развлечением. </p><p><br></p><p>Как сейчас помню, садится он на край кровати этой девочки и серьезно спрашивает:</p><p>- Как нога, не болит?</p><p>Девочка лежит откинувшись на подушках, словно смертельно больная и тихим жалостливым голосом отвечает:</p><p>- Не болит, но согнуть её не могу.</p><p>- Как это не можешь? - удивляется доктор, - Я на снимок смотрел, у тебя там все в порядке. Попробуй!</p><p><br></p><p>Девочка садится и пробует согнуть ногу, та не гнется. Она старается изо всех сил, помогает себе руками, но все безуспешно. </p><p>- Вот видите, не получается, -говорит она голосом полным вселенской печали. </p><p>- Жаль, - весело отвечает молодой хирург, который не разделяет её горе – придется снова ломать!&nbsp; Прямо сейчас и сломаем!</p><p><br></p><p>Говоря это, он тянется к её ноге. Девочка визжит, пытается отодвинутся, но упирается спиной в угол, образованный стеной и спинкой кровати. Несгибающаяся нога при этом продолжает оставаться выпрямленной. Доктор не спеша, словно в замедленной съемке, приближая ладонь к ноге, приговаривает:</p><p>- Не бойся, это не страшно, хрусь и все!</p><p><br></p><p>Однако девочка не верит доброму доктору и пытается спрятать от него &#xAB;больную&#xBB; ногу. </p><p>От ужаса забилась полностью в угол, даже не заметив, что при этом обе её ноги прекрасно согнулись и прижаты к телу.</p><p>- Замечательно! – воскликнул молодой хирург, так и не дотронувшийся до неё – Готовься к выписке. Брысь отсюда! Сеанс чудесного исцеления закончен!</p><p><br></p><p>Это он уже нам сказал. Мы посторонились, пропуская доктора, он пошел дальше в следующую палату, а мы смотрели на девочку которая размазывая слезы по щекам, приговаривала:</p><p>- Что же я теперь маме скажу? Она же меня убьет!</p><p><br></p><p>Тогда я впервые столкнулся с тем, что мама может сильно разозлится и даже наказать дочь, за то, что та выздоровела слишком быстро. Я узнал, что есть такой загадочный и непостижимый детскому уму народ – цыгане.</p>
+				</div>
+			
+				<div class="story__footer">
+			
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5572189">
+						<li class="story__rating-up-small " data-rating="up">
+							<i class="i-sprite--comments__rating-up"></i>
+						</li>
+						<li class="story__rating-down-small " data-rating="down">
+							<i class="i-sprite--comments__rating-down"></i>
+						</li>
+					</ul>
+				
+					<div class="story__slide-up">свернуть</div>
+				</div>
+			
+						</div>
+					</div>
+			
+				</div>
+				<!--story_5572189_end-->
+			
 				<!--story_5572704_start-->
 				<div class="story" data-story-id="5572704" data-visited="false" data-story-long="true">
 					<div class="story__left">
@@ -1636,7 +1896,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572704" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				3209
+				3646
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -1671,8 +1931,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/kogda_vrode_zhivesh_quotpo_ponyatiyamquot_no_ne_to_chtob_vot_sovsem_uzh_5572704#comments">257 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/RainbowBug">RainbowBug</a>
-					<div class="story__date" title="1513772351">5 часов назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/kogda_vrode_zhivesh_quotpo_ponyatiyamquot_no_ne_to_chtob_vot_sovsem_uzh_5572704#comments">289 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/RainbowBug">RainbowBug</a>
+					<div class="story__date" title="1513772351">6 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -1753,127 +2013,6 @@
 				</div>
 				<!--story_5572704_end-->
 			
-				<!--story_5573024_start-->
-				<div class="story" data-story-id="5573024" data-visited="false" data-story-long="false">
-					<div class="story__left">
-				
-					<div class="story__rating-block" data-vote="0" data-story-id="5573024" data-can-vote="true">
-						<div class="story__rating-up" title="Поставить плюсик"></div>
-						<div class="story__rating-count">
-				836
-						</div>
-						<div class="story__rating-down" title="Поставить минус"></div>
-					</div>
-				
-					<div class="story__scroll-wrapper">
-						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5573024" data-story-long="false" data-story-type="gtpost">
-								<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
-							</div>
-						</div>
-					</div>
-			
-				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
-				</div>
-			
-				<div class="story__main">
-					<div class="story__header">
-						<div class="story__header-title">
-			
-					<a href="https://pikabu.ru/story/spetsialno_obuchennyiy_chelovek_5573024" target="_blank"  class="story__title-link ">Специально обученный человек</a>
-				
-					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
-				
-				</div>
-			
-				<div class="story__header-additional">
-			
-					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5573024" data-story-long="false" data-story-type="gtpost">
-						<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
-					</div>
-					<!--/noindex-->
-				
-				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/spetsialno_obuchennyiy_chelovek_5573024#comments">130 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/PupoK17">PupoK17</a>
-					<div class="story__date" title="1513780252">3 часа назад</div>&nbsp;
-				
-					<div class="story__tags">
-				
-							<a href="https://pikabu.ru/tag/%F1%E5%F0%B8%E3%E0%20%F3%EC%E5%E5%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;серёга умеет&quot;">
-								серёга умеет
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%EC%FF%F1%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;мясо&quot;">
-								мясо
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E3%EE%EB%F3%E1%FC%20%E3%E5%ED%ED%E0%E4%E8%E9/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;голубь геннадий&quot;">
-								голубь геннадий
-							</a>
-						
-					</div>
-				
-					<div class="story__save i-sprite--comments__save" data-story-id="5573024" title="Сохранить" data-saved="false"></div>
-				
-					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
-					<!--noindex-->
-					<div class="story__share-buttons" style="display: none">
-				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fspetsialno_obuchennyiy_chelovek_5573024" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fspetsialno_obuchennyiy_chelovek_5573024" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fspetsialno_obuchennyiy_chelovek_5573024&text=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
-			
-					</div>
-					<!--/noindex-->
-				
-				</div>
-			
-							</div>
-						</div>
-					<div class="story__wrapper" style="display: block">
-			
-				<div class="b-story__content b-story-blocks b-story-blocks_with-border" data-expanded="true">
-					<div class="b-story-blocks__wrapper" style="">
-			
-						<div class="b-story-block b-story-block_type_text">
-							<div class="b-story-block__content">
-								<p><p>Работая на одном из крупных предприятий наблюдал картину: в цех залетает голубь. Это Очень серьёзное нарушение на мясокомбинатах.</p><p>Потолки высокие и его не могут выгнать, а производственный процесс идет. Локальную проверку ждем какой-то ТСети. и тут один из активистов пытающихся выгнать голубя уходит в поисках некоего Серёги который "умеет". </p><p><br></p><p>Приходят с Серёгой у которого есть заранее изготовленное устройство и судя по меткости уже даже пристрелянное (см.фото). И этот Серёга при помощи данного инструмента сделанного из рукояти от швабры используя свои лёгкие со второго раза попадает в голубя шилом, которое для этих целей сам и изготовил. Жалко, что голубь в кадр не попал. Поторопился я на секунду.</p></p>
-							</div>
-						</div>
-					
-							<div class="b-story-block b-story-block_type_image">
-								<div class="b-story-block__content">
-						
-								<a href="https://pikabu.ru/story/spetsialno_obuchennyiy_chelovek_5573024" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/20/9/15137800931745276.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/20/9/15137800931745276.jpg" data-viewable="true" alt="Специально обученный человек серёга умеет, мясо, голубь геннадий" style="" data-height="393"></a>
-							
-								</div>
-							</div>
-						
-				</div>
-			
-				</div>
-			
-				<div class="story__footer">
-			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5573024">
-						<li class="story__rating-up-small " data-rating="up">
-							<i class="i-sprite--comments__rating-up"></i>
-						</li>
-						<li class="story__rating-down-small " data-rating="down">
-							<i class="i-sprite--comments__rating-down"></i>
-						</li>
-					</ul>
-				
-					<div class="story__slide-up">свернуть</div>
-				</div>
-			
-						</div>
-					</div>
-			
-				</div>
-				<!--story_5573024_end-->
-			
 				<!--story_5572446_start-->
 				<div class="story" data-story-id="5572446" data-visited="false" data-story-long="false">
 					<div class="story__left">
@@ -1881,7 +2020,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572446" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				3806
+				4133
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -1916,8 +2055,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/o_voronakh_5572446#comments">297 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/zmn39">zmn39</a>
-					<div class="story__date" title="1513766067">7 часов назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/o_voronakh_5572446#comments">315 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/zmn39">zmn39</a>
+					<div class="story__date" title="1513766067">8 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -1989,7 +2128,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572303" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				5090
+				5452
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -2022,8 +2161,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/pro_vospitanie_5572303#comments">79 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Yuurka">Yuurka</a>
-					<div class="story__date" title="1513762508">8 часов назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/pro_vospitanie_5572303#comments">80 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Yuurka">Yuurka</a>
+					<div class="story__date" title="1513762508">9 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -2093,113 +2232,6 @@
 				</div>
 				<!--story_5572303_end-->
 			
-				<!--story_5572407_start-->
-				<div class="story" data-story-id="5572407" data-visited="false" data-story-long="false">
-					<div class="story__left">
-				
-					<div class="story__rating-block" data-vote="0" data-story-id="5572407" data-can-vote="true">
-						<div class="story__rating-up" title="Поставить плюсик"></div>
-						<div class="story__rating-count">
-				1749
-						</div>
-						<div class="story__rating-down" title="Поставить минус"></div>
-					</div>
-				
-					<div class="story__scroll-wrapper">
-						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572407" data-story-long="false" data-story-type="image">
-								<i class="i-sprite--inline-block i-sprite--feed__image-hide"></i>
-							</div>
-						</div>
-					</div>
-			
-				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
-				</div>
-			
-				<div class="story__main">
-					<div class="story__header">
-						<div class="story__header-title">
-			
-					<a href="https://pikabu.ru/story/kreativnenko_5572407" target="_blank"  class="story__title-link ">Креативненько</a>
-				
-				</div>
-			
-				<div class="story__header-additional">
-			
-					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572407" data-story-long="false" data-story-type="image">
-						<i class="i-sprite--inline-block i-sprite--feed__image-hide"></i>
-					</div>
-					<!--/noindex-->
-				
-				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/kreativnenko_5572407#comments">15 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/rikud0usennin">rikud0usennin</a>
-					<div class="story__date" title="1513764943">7 часов назад</div>&nbsp;
-				
-					<div class="story__tags">
-				
-							<a href="https://pikabu.ru/tag/%E2%E0%ED%20%E3%EE%E3/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;ван гог&quot;">
-								ван гог
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%F1%F2%F0%E8%F2-%E0%F0%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;стрит-арт&quot;">
-								стрит-арт
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%F2%F0%EE%F2%F3%E0%F0%ED%E0%FF%20%EF%EB%E8%F2%EA%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;тротуарная плитка&quot;">
-								тротуарная плитка
-							</a>
-						
-					</div>
-				
-					<div class="story__save i-sprite--comments__save" data-story-id="5572407" title="Сохранить" data-saved="false"></div>
-				
-					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
-					<!--noindex-->
-					<div class="story__share-buttons" style="display: none">
-				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkreativnenko_5572407" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkreativnenko_5572407" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkreativnenko_5572407&text=%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B5%D0%BD%D1%8C%D0%BA%D0%BE" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
-			
-					</div>
-					<!--/noindex-->
-				
-				</div>
-			
-							</div>
-						</div>
-					<div class="story__wrapper" style="display: block">
-			
-				<div class="b-story__content b-story__content_type_media " data-expanded="1">
-			
-					<a href="https://pikabu.ru/story/kreativnenko_5572407" target="_blank">
-						<img src="https://cs8.pikabu.ru/post_img/2017/12/20/7/1513764856117339747.jpg"  width="600" height="416" data-large-image="" data-viewable="true" alt="Креативненько"
-							 data-bigger-available="true">
-					</a>
-				
-				</div>
-			
-				<div class="story__footer">
-			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5572407">
-						<li class="story__rating-up-small " data-rating="up">
-							<i class="i-sprite--comments__rating-up"></i>
-						</li>
-						<li class="story__rating-down-small " data-rating="down">
-							<i class="i-sprite--comments__rating-down"></i>
-						</li>
-					</ul>
-				
-					<div class="story__slide-up">свернуть</div>
-				</div>
-			
-						</div>
-					</div>
-			
-				</div>
-				<!--story_5572407_end-->
-			
 				<!--story_5572932_start-->
 				<div class="story" data-story-id="5572932" data-visited="false" data-story-long="false">
 					<div class="story__left">
@@ -2207,7 +2239,7 @@
 					<div class="story__rating-block" data-vote="0" data-story-id="5572932" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				700
+				838
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
@@ -2240,8 +2272,8 @@
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/priruchennyiy_polskiy_kaban_sbezhal_na_nedelyu_iz_doma_i_vernulsya_pyanyim_5572932#comments">75 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/m1llwall">m1llwall</a>
-					<div class="story__date" title="1513777943">4 часа назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/priruchennyiy_polskiy_kaban_sbezhal_na_nedelyu_iz_doma_i_vernulsya_pyanyim_5572932#comments">88 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/m1llwall">m1llwall</a>
+					<div class="story__date" title="1513777943">5 часов назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
@@ -2333,234 +2365,21 @@
 				</div>
 				<!--story_5572932_end-->
 			
-				<!--story_5572409_start-->
-				<div class="story" data-story-id="5572409" data-visited="false" data-story-long="false">
+				<!--story_5573271_start-->
+				<div class="story" data-story-id="5573271" data-visited="false" data-story-long="false">
 					<div class="story__left">
 				
-					<div class="story__rating-block" data-vote="0" data-story-id="5572409" data-can-vote="true">
+					<div class="story__rating-block" data-vote="0" data-story-id="5573271" data-can-vote="true">
 						<div class="story__rating-up" title="Поставить плюсик"></div>
 						<div class="story__rating-count">
-				2322
+				679
 						</div>
 						<div class="story__rating-down" title="Поставить минус"></div>
 					</div>
 				
 					<div class="story__scroll-wrapper">
 						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572409" data-story-long="false" data-story-type="image">
-								<i class="i-sprite--inline-block i-sprite--feed__image-hide"></i>
-							</div>
-						</div>
-					</div>
-			
-				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
-				</div>
-			
-				<div class="story__main">
-					<div class="story__header">
-						<div class="story__header-title">
-			
-					<a href="https://pikabu.ru/story/kogda_v_yakutske_45_zhizn_techet_svoim_cheredom_deti_gulyayut_igrayut_nekotoryie_dazhe_edyat_morozhenoe_5572409" target="_blank"  class="story__title-link ">Когда в Якутске -45 жизнь течет своим чередом, дети гуляют, играют, некоторые даже едят мороженое...</a>
-				
-				</div>
-			
-				<div class="story__header-additional">
-			
-					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572409" data-story-long="false" data-story-type="image">
-						<i class="i-sprite--inline-block i-sprite--feed__image-hide"></i>
-					</div>
-					<!--/noindex-->
-				
-				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/kogda_v_yakutske_45_zhizn_techet_svoim_cheredom_deti_gulyayut_igrayut_nekotoryie_dazhe_edyat_morozhenoe_5572409#comments">191 Комментарий</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/f0scar">f0scar</a>
-					<div class="story__date" title="1513764992">7 часов назад</div>&nbsp;
-				
-					<div class="story__tags">
-				
-							<a href="https://pikabu.ru/tag/%FF%EA%F3%F2%F1%EA/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;якутск&quot;">
-								якутск
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E4%E5%F2%E8/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;дети&quot;">
-								дети
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E7%E8%EC%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;зима&quot;">
-								зима
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%F4%EE%F2%EE%E3%F0%E0%F4%E8%FF/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;фотография&quot;">
-								фотография
-							</a>
-						
-					</div>
-				
-					<div class="story__save i-sprite--comments__save" data-story-id="5572409" title="Сохранить" data-saved="false"></div>
-				
-					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
-					<!--noindex-->
-					<div class="story__share-buttons" style="display: none">
-				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkogda_v_yakutske_45_zhizn_techet_svoim_cheredom_deti_gulyayut_igrayut_nekotoryie_dazhe_edyat_morozhenoe_5572409" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkogda_v_yakutske_45_zhizn_techet_svoim_cheredom_deti_gulyayut_igrayut_nekotoryie_dazhe_edyat_morozhenoe_5572409" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkogda_v_yakutske_45_zhizn_techet_svoim_cheredom_deti_gulyayut_igrayut_nekotoryie_dazhe_edyat_morozhenoe_5572409&text=%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%B2+%D0%AF%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%B5+-45+%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C+%D1%82%D0%B5%D1%87%D0%B5%D1%82+%D1%81%D0%B2%D0%BE%D0%B8%D0%BC+%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%BC%2C+%D0%B4%D0%B5%D1%82%D0%B8+%D0%B3%D1%83%D0%BB%D1%8F%D1%8E%D1%82%2C+%D0%B8%D0%B3%D1%80%D0%B0%D1%8E%D1%82%2C+%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5+%D0%B4%D0%B0%D0%B6%D0%B5+%D0%B5%D0%B4%D1%8F%D1%82+%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%BE%D0%B5..." target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
-			
-					</div>
-					<!--/noindex-->
-				
-				</div>
-			
-							</div>
-						</div>
-					<div class="story__wrapper" style="display: block">
-			
-				<div class="b-story__content b-story__content_type_media " data-expanded="1">
-			
-					<a href="https://pikabu.ru/story/kogda_v_yakutske_45_zhizn_techet_svoim_cheredom_deti_gulyayut_igrayut_nekotoryie_dazhe_edyat_morozhenoe_5572409" target="_blank">
-						<img src="https://cs7.pikabu.ru/post_img/2017/12/20/7/151376497119346344.jpg"  width="600" height="450" data-large-image="https://cs7.pikabu.ru/post_img/big/2017/12/20/7/151376497119346344.jpg" data-viewable="true" alt="Когда в Якутске -45 жизнь течет своим чередом, дети гуляют, играют, некоторые даже едят мороженое..."
-							 data-bigger-available="true">
-					</a>
-				
-				</div>
-			
-				<div class="story__footer">
-			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5572409">
-						<li class="story__rating-up-small " data-rating="up">
-							<i class="i-sprite--comments__rating-up"></i>
-						</li>
-						<li class="story__rating-down-small " data-rating="down">
-							<i class="i-sprite--comments__rating-down"></i>
-						</li>
-					</ul>
-				
-					<div class="story__slide-up">свернуть</div>
-				</div>
-			
-						</div>
-					</div>
-			
-				</div>
-				<!--story_5572409_end-->
-			
-				<!--story_5572671_start-->
-				<div class="story" data-story-id="5572671" data-visited="false" data-story-long="false">
-					<div class="story__left">
-				
-					<div class="story__rating-block" data-vote="0" data-story-id="5572671" data-can-vote="true">
-						<div class="story__rating-up" title="Поставить плюсик"></div>
-						<div class="story__rating-count">
-				1950
-						</div>
-						<div class="story__rating-down" title="Поставить минус"></div>
-					</div>
-				
-					<div class="story__scroll-wrapper">
-						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572671" data-story-long="false" data-story-type="text">
-								<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
-							</div>
-						</div>
-					</div>
-			
-				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
-				</div>
-			
-				<div class="story__main">
-					<div class="story__header">
-						<div class="story__header-title">
-			
-					<a href="https://pikabu.ru/story/vsyo_pravilno_sdelal_5572671" target="_blank"  class="story__title-link ">Всё правильно сделал</a>
-				
-				</div>
-			
-				<div class="story__header-additional">
-			
-					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572671" data-story-long="false" data-story-type="text">
-						<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
-					</div>
-					<!--/noindex-->
-				
-				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/vsyo_pravilno_sdelal_5572671#comments">35 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/PivBear">PivBear</a>
-					<div class="story__date" title="1513771433">6 часов назад</div>&nbsp;
-				
-					<div class="story__tags">
-				
-							<a href="https://pikabu.ru/tag/%F1%EE%E2%E5%F9%E0%ED%E8%E5/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;совещание&quot;">
-								совещание
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%F2%E5%EA%F1%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;текст&quot;">
-								текст
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E0%ED%E5%EA%E4%EE%F2%F0%F3/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;анекдотру&quot;">
-								анекдотру
-							</a>
-						
-					</div>
-				
-					<div class="story__save i-sprite--comments__save" data-story-id="5572671" title="Сохранить" data-saved="false"></div>
-				
-					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
-					<!--noindex-->
-					<div class="story__share-buttons" style="display: none">
-				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvsyo_pravilno_sdelal_5572671" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvsyo_pravilno_sdelal_5572671" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvsyo_pravilno_sdelal_5572671&text=%D0%92%D1%81%D1%91+%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
-			
-					</div>
-					<!--/noindex-->
-				
-				</div>
-			
-							</div>
-						</div>
-					<div class="story__wrapper" style="display: block">
-			
-				<div class="b-story__content b-story__content_type_text" data-expanded="1">
-			<p>На совещании директор спрашивает одного из сотрудников:</p><p>- Хотелось бы услышать твоё мнение.</p><p>- Твёрдо уверен, что моё мнение полностью совпадает с тем, которое от меня хотят услышать.</p>
-				</div>
-			
-				<div class="story__footer">
-			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5572671">
-						<li class="story__rating-up-small " data-rating="up">
-							<i class="i-sprite--comments__rating-up"></i>
-						</li>
-						<li class="story__rating-down-small " data-rating="down">
-							<i class="i-sprite--comments__rating-down"></i>
-						</li>
-					</ul>
-				
-					<div class="story__slide-up">свернуть</div>
-				</div>
-			
-						</div>
-					</div>
-			
-				</div>
-				<!--story_5572671_end-->
-			
-				<!--story_5571726_start-->
-				<div class="story" data-story-id="5571726" data-visited="false" data-story-long="true">
-					<div class="story__left">
-				
-					<div class="story__rating-block" data-vote="0" data-story-id="5571726" data-can-vote="true">
-						<div class="story__rating-up" title="Поставить плюсик"></div>
-						<div class="story__rating-count">
-				5892
-						</div>
-						<div class="story__rating-down" title="Поставить минус"></div>
-					</div>
-				
-					<div class="story__scroll-wrapper">
-						<div class="story__scroll">
-							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5571726" data-story-long="true" data-story-type="gtpost">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5573271" data-story-long="false" data-story-type="gtpost">
 								<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
 							</div>
 						</div>
@@ -2573,7 +2392,126 @@
 					<div class="story__header">
 						<div class="story__header-title">
 			
-					<a href="https://pikabu.ru/story/poproshayki_vs_avtopodborro_5571726" target="_blank"  class="story__title-link ">Попрошайки VS Avtopodborro</a>
+					<a href="https://pikabu.ru/story/vyi__kholodnyiy_oplachivaem_proezd_5573271" target="_blank"  class="story__title-link ">Вы -- холодный, оплачиваем проезд</a>
+				
+				</div>
+			
+				<div class="story__header-additional">
+			
+					<!--noindex-->
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5573271" data-story-long="false" data-story-type="gtpost">
+						<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
+					</div>
+					<!--/noindex-->
+				
+				<div class="story__header-additional-wrapper">
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/vyi__kholodnyiy_oplachivaem_proezd_5573271#comments">35 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/JohannSebBach">JohannSebBach</a>
+					<div class="story__date" title="1513786375">2 часа назад</div>&nbsp;
+				
+					<div class="story__tags">
+				
+							<a href="https://pikabu.ru/tag/%F4%EE%F2%EE%E3%F0%E0%F4%E8%FF/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;фотография&quot;">
+								фотография
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%FE%EC%EE%F0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;юмор&quot;">
+								юмор
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%CA%E0%F0%F2%E8%ED%EA%E8/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Картинки&quot;">
+								Картинки
+							</a>
+						
+					</div>
+				
+					<div class="story__save i-sprite--comments__save" data-story-id="5573271" title="Сохранить" data-saved="false"></div>
+				
+					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
+					<!--noindex-->
+					<div class="story__share-buttons" style="display: none">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvyi__kholodnyiy_oplachivaem_proezd_5573271" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvyi__kholodnyiy_oplachivaem_proezd_5573271" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvyi__kholodnyiy_oplachivaem_proezd_5573271&text=%D0%92%D1%8B+--+%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%2C+%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC+%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+			
+					</div>
+					<!--/noindex-->
+				
+				</div>
+			
+							</div>
+						</div>
+					<div class="story__wrapper" style="display: block">
+			
+				<div class="b-story__content b-story-blocks b-story-blocks_with-border" data-expanded="true">
+					<div class="b-story-blocks__wrapper" style="">
+			
+						<div class="b-story-block b-story-block_type_text">
+							<div class="b-story-block__content">
+								<p><p>По мотивам -- <!--noindex--><a href="https://pikabu.ru/story/_5573121" target="_blank" rel="nofollow noopener">https://pikabu.ru/story/_5573121</a><!--/noindex--></p></p>
+							</div>
+						</div>
+					
+							<div class="b-story-block b-story-block_type_image">
+								<div class="b-story-block__content">
+						
+								<a href="https://pikabu.ru/story/vyi__kholodnyiy_oplachivaem_proezd_5573271" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/20/10/1513786174165551035.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/20/10/1513786174165551035.jpg" data-viewable="true" alt="Вы -- холодный, оплачиваем проезд фотография, юмор, Картинки" style="" data-height="556"></a>
+							
+								</div>
+							</div>
+						
+				</div>
+			
+				</div>
+			
+				<div class="story__footer">
+			
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5573271">
+						<li class="story__rating-up-small " data-rating="up">
+							<i class="i-sprite--comments__rating-up"></i>
+						</li>
+						<li class="story__rating-down-small " data-rating="down">
+							<i class="i-sprite--comments__rating-down"></i>
+						</li>
+					</ul>
+				
+					<div class="story__slide-up">свернуть</div>
+				</div>
+			
+						</div>
+					</div>
+			
+				</div>
+				<!--story_5573271_end-->
+			
+				<!--story_5572569_start-->
+				<div class="story" data-story-id="5572569" data-visited="false" data-story-long="false">
+					<div class="story__left">
+				
+					<div class="story__rating-block" data-vote="0" data-story-id="5572569" data-can-vote="true">
+						<div class="story__rating-up" title="Поставить плюсик"></div>
+						<div class="story__rating-count">
+				988
+						</div>
+						<div class="story__rating-down" title="Поставить минус"></div>
+					</div>
+				
+					<div class="story__scroll-wrapper">
+						<div class="story__scroll">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5572569" data-story-long="false" data-story-type="text">
+								<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+							</div>
+						</div>
+					</div>
+			
+				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
+				</div>
+			
+				<div class="story__main">
+					<div class="story__header">
+						<div class="story__header-title">
+			
+					<a href="https://pikabu.ru/story/nezametnyie_lyudi_5572569" target="_blank"  class="story__title-link ">Незаметные люди</a>
 				
 					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
 				
@@ -2582,31 +2520,137 @@
 				<div class="story__header-additional">
 			
 					<!--noindex-->
-					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5571726" data-story-long="true" data-story-type="gtpost">
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5572569" data-story-long="false" data-story-type="text">
+						<i class="i-sprite--inline-block i-sprite--feed__text-hide"></i>
+					</div>
+					<!--/noindex-->
+				
+				<div class="story__header-additional-wrapper">
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/nezametnyie_lyudi_5572569#comments">26 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Sandro65">Sandro65</a>
+					<div class="story__date" title="1513769304">7 часов назад</div>&nbsp;
+				
+					<div class="story__tags">
+				
+							<a href="https://pikabu.ru/tag/%F0%E0%E1%EE%F2%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;работа&quot;">
+								работа
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%E7%E0%F0%EF%EB%E0%F2%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;зарплата&quot;">
+								зарплата
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%D0%E0%E1%EE%F7%E5%E5%20%EC%E5%F1%F2%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Рабочее место&quot;">
+								Рабочее место
+							</a>
+						
+							<a href="https://pikabu.ru/tag/%F2%E5%EA%F1%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;текст&quot;">
+								текст
+							</a>
+						
+					</div>
+				
+					<div class="story__save i-sprite--comments__save" data-story-id="5572569" title="Сохранить" data-saved="false"></div>
+				
+					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
+					<!--noindex-->
+					<div class="story__share-buttons" style="display: none">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fnezametnyie_lyudi_5572569" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fnezametnyie_lyudi_5572569" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fnezametnyie_lyudi_5572569&text=%D0%9D%D0%B5%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BD%D1%8B%D0%B5+%D0%BB%D1%8E%D0%B4%D0%B8" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+			
+					</div>
+					<!--/noindex-->
+				
+				</div>
+			
+							</div>
+						</div>
+					<div class="story__wrapper" style="display: block">
+			
+				<div class="b-story__content b-story__content_type_text" data-expanded="1">
+			<p>Волею судьбы (бога, рока, случая...) закрыли мне медики мою профессию. Сказали: запрещено работать на технике, при низких температурах, большие физические нагрузки и тд и тп. Вот тебе справка инвалида 2-ой группы, иди и не греши. Спасибо родному предприятию, оформили переводом подсобным рабочим. А зимой подсобные работы - 80% снежные работы. Это мы приезжаем к 6-30 и расчищаем дорожки от снега, чтобы он не набился в ботинки, посыпаем песочком, чтобы вы не скользили, а я вдруг задумался, я 25 зим ходил по вычищенным дорожкам и не замечал этих людей. Они как придорожные кусты, как навес над остановкой, просто элемент пейзажа. И я доволен этим! Я никому ничего не должен( при условии выполнения своей работы) могу послать любого далеко и на долго, если у него нет допуска к управлению лопатой, работа на свежем воздухе, здоровый физический труд( практически бесплатный фитнес ) Огорчает только одно: у незаметных людей - незаметная зарплата.&nbsp; </p>
+				</div>
+			
+				<div class="story__footer">
+			
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5572569">
+						<li class="story__rating-up-small " data-rating="up">
+							<i class="i-sprite--comments__rating-up"></i>
+						</li>
+						<li class="story__rating-down-small " data-rating="down">
+							<i class="i-sprite--comments__rating-down"></i>
+						</li>
+					</ul>
+				
+					<div class="story__slide-up">свернуть</div>
+				</div>
+			
+						</div>
+					</div>
+			
+				</div>
+				<!--story_5572569_end-->
+			
+				<!--story_5573488_start-->
+				<div class="story" data-story-id="5573488" data-visited="false" data-story-long="true">
+					<div class="story__left">
+				
+					<div class="story__rating-block" data-vote="0" data-story-id="5573488" data-can-vote="true">
+						<div class="story__rating-up" title="Поставить плюсик"></div>
+						<div class="story__rating-count">
+				361
+						</div>
+						<div class="story__rating-down" title="Поставить минус"></div>
+					</div>
+				
+					<div class="story__scroll-wrapper">
+						<div class="story__scroll">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="5573488" data-story-long="true" data-story-type="gtpost">
+								<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
+							</div>
+						</div>
+					</div>
+			
+				<img src="https://cs8.pikabu.ru/post_img/2017/10/25/5/15089145197525334.png">
+				</div>
+			
+				<div class="story__main">
+					<div class="story__header">
+						<div class="story__header-title">
+			
+					<a href="https://pikabu.ru/story/sboy_kass_shtrikhm_segodnya_po_vsey_strane_5573488" target="_blank"  class="story__title-link ">Сбой касс Штрих-М сегодня по всей стране</a>
+				
+					<a class="story__authors" href="https://pikabu.ru/search.php?n=16&r=3">[моё]</a>
+				
+				</div>
+			
+				<div class="story__header-additional">
+			
+					<!--noindex-->
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="5573488" data-story-long="true" data-story-type="gtpost">
 						<i class="i-sprite--inline-block i-sprite--feed__gtpost-hide"></i>
 					</div>
 					<!--/noindex-->
 				
 				<div class="story__header-additional-wrapper">
-			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/poproshayki_vs_avtopodborro_5571726#comments">939 Комментариев</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/AvtoPodborro">AvtoPodborro</a>
-					<div class="story__date" title="1513745468">13 часов назад</div>&nbsp;
+			<a class="story__comments-count story__to-comments" href="https://pikabu.ru/story/sboy_kass_shtrikhm_segodnya_po_vsey_strane_5573488#comments">91 Комментарий</a> <img src="https://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="https://pikabu.ru/profile/Milfgard">Milfgard</a>
+					в <a href="/community/business">Бизнес</a>
+				
+					<div class="story__date" title="1513791265">1 час назад</div>&nbsp;
 				
 					<div class="story__tags">
 				
-							<a href="https://pikabu.ru/tag/%EF%EE%EF%F0%EE%F8%E0%E9%EA%E8/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;попрошайки&quot;">
-								попрошайки
+							<a href="https://pikabu.ru/tag/%D8%F2%F0%E8%F5-%CC/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Штрих-М&quot;">
+								Штрих-М
 							</a>
 						
-							<a href="https://pikabu.ru/tag/%CC%E5%F2%F0%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Метро&quot;">
-								Метро
+							<a href="https://pikabu.ru/tag/%EA%E0%F1%F1%E0/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;касса&quot;">
+								касса
 							</a>
 						
-							<a href="https://pikabu.ru/tag/%C2%E8%E4%E5%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Видео&quot;">
-								Видео
-							</a>
-						
-							<a href="https://pikabu.ru/tag/%E2%E5%F0%F2%E8%EA%E0%EB%FC%ED%EE%E5%20%E2%E8%E4%E5%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;вертикальное видео&quot;">
-								вертикальное видео
+							<a href="https://pikabu.ru/tag/habrahabr/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;habrahabr&quot;">
+								habrahabr
 							</a>
 						
 							<a href="https://pikabu.ru/tag/%E4%EB%E8%ED%ED%EE%EF%EE%F1%F2/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;длиннопост&quot;">
@@ -2615,15 +2659,15 @@
 						
 					</div>
 				
-					<div class="story__save i-sprite--comments__save" data-story-id="5571726" title="Сохранить" data-saved="false"></div>
+					<div class="story__save i-sprite--comments__save" data-story-id="5573488" title="Сохранить" data-saved="false"></div>
 				
 					<div class="story__share i-sprite--inline-block i-sprite--feed__share-all"></div>
 					<!--noindex-->
 					<div class="story__share-buttons" style="display: none">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fpoproshayki_vs_avtopodborro_5571726" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fpoproshayki_vs_avtopodborro_5571726" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fpoproshayki_vs_avtopodborro_5571726&text=%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D1%88%D0%B0%D0%B9%D0%BA%D0%B8+VS+Avtopodborro" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fsboy_kass_shtrikhm_segodnya_po_vsey_strane_5573488" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fsboy_kass_shtrikhm_segodnya_po_vsey_strane_5573488" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fsboy_kass_shtrikhm_segodnya_po_vsey_strane_5573488&text=%D0%A1%D0%B1%D0%BE%D0%B9+%D0%BA%D0%B0%D1%81%D1%81+%D0%A8%D1%82%D1%80%D0%B8%D1%85-%D0%9C+%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F+%D0%BF%D0%BE+%D0%B2%D1%81%D0%B5%D0%B9+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
 			
 					</div>
 					<!--/noindex-->
@@ -2637,63 +2681,34 @@
 				<div class="b-story__content b-story-blocks b-story-blocks_with-border" data-expanded="true">
 					<div class="b-story-blocks__wrapper b-story-blocks__wrapper_slice_yes" style="max-height: 750px;">
 			
-						<div class="b-story-block b-story-block_type_text">
-							<div class="b-story-block__content">
-								<p><p>Всем Привет!</p><p><br></p><p>Так уж получилось, что не автомобильной тематики пост пришлось написать...</p><p>А причиной тому,&nbsp; как вы уже догадались- попрошайки. Причем всем известные.&nbsp; Гр-н РФ Курбатов и гражданка Украины Цветкова. </p><p>А если быть&nbsp; еще точнее то неадекватное&nbsp; поведение гр-на Курбатова.</p><p>Вчера я шел по переходу в м. Комсомольская....увидел что до эскалатора метров 150 пробка из людей...решил сфотографировать сей немалый движ..</p><p>А среди них прямо на проходе и под видеокамерами стояла эта парочка с чемоданом и табличкой- "Помогите на дорогу домой...обокрали!".&nbsp; где и произошла с ними состыковка!!! </p></p>
-							</div>
-						</div>
-					
 							<div class="b-story-block b-story-block_type_image">
 								<div class="b-story-block__content">
 						
-								<a href="https://pikabu.ru/story/poproshayki_vs_avtopodborro_5571726" target="_blank"><img src="https://cs7.pikabu.ru/post_img/2017/12/20/4/1513744721120361424.jpg" data-large-image="https://cs7.pikabu.ru/post_img/big/2017/12/20/4/1513744721120361424.jpg" data-viewable="true" alt="Попрошайки VS Avtopodborro попрошайки, Метро, Видео, вертикальное видео, длиннопост" style="" data-height="933"></a>
+								<a href="https://pikabu.ru/story/sboy_kass_shtrikhm_segodnya_po_vsey_strane_5573488" target="_blank"><img src="https://cs7.pikabu.ru/post_img/2017/12/20/10/1513791255191930072.jpg" data-large-image="https://cs7.pikabu.ru/post_img/big/2017/12/20/10/1513791255191930072.jpg" data-viewable="true" alt="Сбой касс Штрих-М сегодня по всей стране Штрих-М, касса, habrahabr, длиннопост" style="" data-height="525"></a>
 							
 								</div>
 							</div>
 						
 						<div class="b-story-block b-story-block_type_text">
 							<div class="b-story-block__content">
-								<p><p>Проходя мимо спросил куда на этот раз им не хватает? </p><p>Курбатов видимо психанул, обогнал и ударил сзади по телефону. Телефон не разбился,&nbsp; только кусок защитного стекла отвалился..</p><p>Когда обратно проходил с ними уже стоял полицейский.</p><p>Ах да. Видео ниже- запрещенное к показу.&nbsp; Причем самим Курбатовым, попрошайкой всея метрополитена! </p></p>
-							</div>
-						</div>
-					
-							<div class="b-story-block b-story-block_type_video">
-								<div class="b-story-block__content">
-									<div class="b-video" data-url="https://www.youtube.com/embed/CCAIvibMlEI" data-id="CCAIvibMlEI" data-ratio="1.78" data-duration="0">
-										<div class="b-video__state b-video__state_loading_yes"><i class="fa fa-circle-o-notch fa-spin"></i></div>
-										<div class="b-video__state b-video__state_waiting_yes" style="visibility: hidden;">
-											<span class="b-video__duration"></span>
-										</div>
-
-										<div class="b-video__preview b-video__preview_show_yes" style="background-image: url(https://cs7.pikabu.ru/video/2017/12/20/4/1513745181491859288.jpg); ">
-											<div class="b-video__logo"></div>
-											<div class="b-video__play i-sprite--gifx__play"></div>
-										</div>
-										<div class="b-video__player"></div>
-									</div>
-								</div>
-							</div>
-						
-						<div class="b-story-block b-story-block_type_text">
-							<div class="b-story-block__content">
-								<p><p>Потом пошли в комнату полиции, в которой Курбатов вел себя очень дерзко, угрожал физ.расправой и т.д. </p><p>Но у меня всё записано Курбатов, если ты читаешь. </p><p>Поэтому желаю тебе раскатать подвороты на штанах и пойти работать.&nbsp; С подворотами сейчас нигде не берут...</p></p>
+								<p><p>Сегодня по всей стране накрылись кассы Штрих-М. Началось с Владивостока в час ночи, потом кассы отрубались по часовым поясам. К утру это случилось и в Москве. Штрих-М стоят, например, по данным РБК, в Пятёрочках, в Магнитах, в Магнолии, на заправках Газпрома и Роснефти. И у нас. </p><p><br></p><p>Это полная задница. Работать без кассы нельзя. Это нарушение закона. Та же Магнолия около нашего офиса вообще закрылась. Некоторые небольшие сети по всей стране тоже не открывали магазины.<br></p><p><br></p><p>А случилось вот что. Штрих-М поймали ошибку, про которую производитель, похоже, знал заранее, либо выпустил очень-очень оперативиный хотфикс. По крайней мере, в 9 утра по Москве, прошивка уже была доступна с инструкцией на их форуме. </p><p><br></p><p>На РБК в новости есть комментарий, что если на кассе было включено автообноовление, то сбоя не было. Но автообновление по умолчанию выключено на уровне заводского конфига. </p><p><br></p><p>Важно то, что чеки нельзя выдать, потому что прошивка кассы дала сбой. То есть покупатели приходят, а мы не можем выдать чек. Невыдача одного чека – это штраф несколько десятков тысяч рублей. Самый страшный залёт, который только бывает в рознице после отравленных продуктов питания. Это значило, что можно было смело закрывать магазины до устранения проблемы. </p><p><br></p><p>Это финиш. Для нас 20 декабря по продажам – как неделя в июне. Для многих тоже. </p><p><br></p><p>У Штрихов есть возможность прошиться онлайн – на части касс мы подключались к рабочим местам кассиров удалённо, клали файлы новой прошивки в их софт, и касса это хавала. Перезагружалась и запускалась с новой сменой, можно было работать.<br></p><p><br></p><p>К сожалению, работало это только на тех интерфейсах, где кабель был COM 9pin – COM 9pin. На всех остальных кассах подключения к компьютерам просто не было. Потому что довольно тяжело найти компьютер с COM 25pin, например. Альтернатива – взять флешку с проишивкой и вставить её внутрь кассы. Мы сделали следующее:</p><p><br></p><p>Наши инженеры поехали в самые горячие магазины (где больше всего оборот) и стали поднимать кассы там. Например, наши точки на Таганской и Курской (лучшая парковка и магазин в здании метро) поднялись через 40 минут после выявления бага. Мега Белая Дача – через полтора часа и так далее. </p><p><br></p><p>Старшие точек повезли часть касс в офис – чтобы мы прошили их прямо на месте. </p><p><br></p><p>В это время Федеральная налоговая служба сделала невероятно адекватную вещь. Они сказали, что можно выдавать товар без чека, но на следующий день на всё проданное надо будет пробить чеки коррекции. </p><p><br></p><p>&#xAB;С 01:00 20 декабря 2017 года в работе контрольно-кассовой техники производителей АО &#xAB;ШТРИХ-М&#xBB;, ООО &#xAB;РР-Электро&#xBB;, ООО &#xAB;Тринити&#xBB; и ООО &#xAB;НТЦ &#xAB;Измеритель&#xBB; произошел массовый технический сбой. В связи с этим ФНС России напоминает, что в соответствии с пунктом 4 статьи 4.3 Федерального закона от 22.05.2003 № 54-ФЗ при корректировке более ранних расчетов формируется кассовый чек коррекции (бланк строгой отчетности коррекции). Таким образом, в случае технического сбоя после восстановления работы кассы пользователи обязаны сформировать кассовый чек коррекции с общей суммой неотраженной выручки. ФНС России обращает внимание, что в таких обстоятельствах пользователи ККТ не привлекаются к административной ответственности, так как в соответствии частями 1 и 4 статьи 1.5 КоАП РФ вины пользователей за неприменение контрольно-кассовой техники, в том числе при реализации алкоголя, нет.&#xBB; </p><p><br></p><p>Некоторые кассы вообще не имеют слота для флешки. Например, Элвес РР Ф, который сегодня, похоже, не прошёл тестовое внедрение в нашей сети. Только искать ком-разъём на компьютере. </p><p><br></p><p>Выжимка:<br></p><p>&#xAB;Решение проблемы - обновиться на прошивку, что выпустили сегодня. Прошивка от 20.12.2017<br></p><p>Прошивку можно скачать на официальном сайте.<br></p><p>При удаленном обновлении:<br></p><p>1. Подключить кассу через COM-шнур<br></p><p>2. Подключиться удалённо к рабочему месту кассира<br></p><p>3. Установить ПО Tera Term и скормить ей прошику.<br></p><p>4. Next-next-читай инструкцию-done и немного типовых настроек.<br></p><p><br></p><p>На месте: сделать SD-карту с новой прошивкой, приехать, разобрать кассу, вытащить SD-карту, вставить новую такую же со включённым флагом автообноления, подключить кассу к рабочему месту кассира (чтобы она увидела аплинк до большой сети), обновиться, сделать технологическое обнуление, облегчённо выматериться, поехать в следующий магазин. Флешка уезжает с вами, в кассу в процессе возвращается старая.&#xBB;<br></p><p><br></p><p>Следующая проблема – если касса не работает, то терминалы карт не будут работать тоже. В том случае, если они интегрированы. Карина, руководитель розницы и бывшая глава нашего ИТ-департамента, параноик. Поэтому незаменимых интегрированных терминалов у нас осталось только две штуки – она подозревала, что рано или поздно каждая розница сталкивается с отказом касс.<br></p><p><br></p><p>К вечеру 40% касс мы прошили дистанционно. Восстановили большинство магазинов вручную. </p><p><br></p><p>Дидактические материалы: мой оригинальный <a href="https://habrahabr.ru/company/mosigra/blog/345188/" target="_blank" rel="nofollow noopener">пост </a>на Хабре (там есть фото разбора кассы), <a href="https://www.rbc.ru/rbcfreenews/5a3a36a89a7947f4c7c6659a" target="_blank" rel="nofollow noopener">новость на РБК</a>, <a href="https://www.nalog.ru/rn77/news/activities_fts/7139140/" target="_blank" rel="nofollow noopener">разъяснение </a>ФНС, <a href="https://forum.shtrih-m-partners.ru/index.php?topic=33008.0" target="_blank" rel="nofollow noopener">ветка на форуме производителя касс</a>, <a href="https://www.shtrih-m.ru/" target="_blank" rel="nofollow noopener">сайт</a> с новой прошивкой.</p><p><br></p><p>С праздником вас всех!</p></p>
 							</div>
 						</div>
 					
 				</div>
 			
-					<a href="https://pikabu.ru/story/poproshayki_vs_avtopodborro_5571726" 
+					<a href="https://pikabu.ru/story/sboy_kass_shtrikhm_segodnya_po_vsey_strane_5573488" 
 						data-aid="0" class="b-story__show-all">
 						<span>Показать полностью</span>
-						1 <i class="b-story__show-all-images"></i> 
-						1 <i class="b-story__show-all-videos"></i> 
+						
+						
 					</a>
 				
 				</div>
 			
 				<div class="story__footer">
 			
-					<ul class="story__rating-block story__rating-block_small" data-story-id="5571726">
+					<ul class="story__rating-block story__rating-block_small" data-story-id="5573488">
 						<li class="story__rating-up-small " data-rating="up">
 							<i class="i-sprite--comments__rating-up"></i>
 						</li>
@@ -2709,7 +2724,7 @@
 					</div>
 			
 				</div>
-				<!--story_5571726_end-->
+				<!--story_5573488_end-->
 			
 					<script type="text/javascript">
 						(function(key, value, expireSec, domain) {
@@ -2724,7 +2739,7 @@
 								data += "domain=" + domain + ";";
 							}
 							document.cookie = data;
-						})("_Va", "rt.8J6J.gDbGSF", 10800, "");
+						})("_Va", "rt.1K6J.TptNWG", 10800, "");
 					</script>
 				
 				<!--story_5571191_start-->
@@ -2756,7 +2771,7 @@
 					<div class="story__header first_story">
 						<div class="story__header-title">
 			
-					<a href="https://pikabu.ru/story/prein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" target="_blank" data-view-key="SrtWGGnt67vC"  class="story__title-link ">Что дарить друзьям на новый год?</a>
+					<a href="https://pikabu.ru/story/ravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" target="_blank" data-view-key="Prtx6ETq77vC"  class="story__title-link ">Что дарить друзьям на новый год?</a>
 				
 				</div>
 			
@@ -2788,9 +2803,9 @@
 					<!--noindex-->
 					<div class="story__share-buttons" style="display: none">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fprein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
-				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fprein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
-				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fprein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191&text=%D0%A7%D1%82%D0%BE+%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C+%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC+%D0%BD%D0%B0+%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B3%D0%BE%D0%B4%3F" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpikabu.ru%2Fstory%2Fravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_fb i-sprite--feed__share-fb"></a>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_vk i-sprite--feed__share-vk"></a>
+				<a href="https://twitter.com/share?url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191&text=%D0%A7%D1%82%D0%BE+%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C+%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC+%D0%BD%D0%B0+%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B3%D0%BE%D0%B4%3F" target="_blank" rel="nofollow" class="story__share-button story__share-button_type_tw i-sprite--feed__share-tw"></a>
 			
 					</div>
 					<!--/noindex-->
@@ -2813,7 +2828,7 @@
 							<div class="b-story-block b-story-block_type_image">
 								<div class="b-story-block__content">
 						
-								<a href="https://pikabu.ru/story/prein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/08/7/1512733832188565704.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/1512733832188565704.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="700"></a>
+								<a href="https://pikabu.ru/story/ravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/08/7/1512733832188565704.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/1512733832188565704.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="700"></a>
 							
 								</div>
 							</div>
@@ -2829,7 +2844,7 @@
 							<div class="b-story-block b-story-block_type_image">
 								<div class="b-story-block__content">
 						
-								<a href="https://pikabu.ru/story/prein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/08/7/1512733739121212449.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/1512733739121212449.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="466"></a>
+								<a href="https://pikabu.ru/story/ravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" target="_blank"><img src="https://cs8.pikabu.ru/post_img/2017/12/08/7/1512733739121212449.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/1512733739121212449.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="466"></a>
 							
 								</div>
 							</div>
@@ -2843,7 +2858,7 @@
 							<div class="b-story-block b-story-block_type_image">
 								<div class="b-story-block__content">
 						
-								<a href="https://pikabu.ru/story/prein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" target="_blank"><img data-src="https://cs8.pikabu.ru/post_img/2017/12/08/7/1512733838184823963.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/1512733838184823963.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="700"></a>
+								<a href="https://pikabu.ru/story/ravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" target="_blank"><img data-src="https://cs8.pikabu.ru/post_img/2017/12/08/7/1512733838184823963.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/1512733838184823963.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="700"></a>
 							
 								</div>
 							</div>
@@ -2857,7 +2872,7 @@
 							<div class="b-story-block b-story-block_type_image">
 								<div class="b-story-block__content">
 						
-								<a href="https://pikabu.ru/story/prein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" target="_blank"><img data-src="https://cs8.pikabu.ru/post_img/2017/12/08/7/151273385319283039.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/151273385319283039.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="700"></a>
+								<a href="https://pikabu.ru/story/ravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" target="_blank"><img data-src="https://cs8.pikabu.ru/post_img/2017/12/08/7/151273385319283039.jpg" data-large-image="https://cs8.pikabu.ru/post_img/big/2017/12/08/7/151273385319283039.jpg" data-viewable="true" alt="Что дарить друзьям на новый год? длиннопост" style="" data-height="700"></a>
 							
 								</div>
 							</div>
@@ -2872,7 +2887,7 @@
 				
 				</div>
 			
-					<a href="https://pikabu.ru/story/prein_kiypocarkkiknloolnl_pronredshcnyaarktsy_on_vyli_v_onloolnl_pronaese_p_5571191" 
+					<a href="https://pikabu.ru/story/ravnopo_ryatits_byekdogolo_dya_no_al_poitsorot__in_shkotaekdogolo_dya_al_ay_5571191" 
 						data-aid="2221" class="b-story__show-all">
 						<span>Показать полностью</span>
 						3 <i class="b-story__show-all-images"></i> 
@@ -3015,7 +3030,7 @@
 										</label>
 
 										<div class="b-sign__password-view fa fa-eye"></div>
-										<input id="signup-p" data-name="password" class="b-input" data-additional="_0T82OQ" type="password" maxlength="255" autocomplete="off" value="">
+										<input id="signup-p" data-name="password" class="b-input" data-additional="_TF7Y96" type="password" maxlength="255" autocomplete="off" value="">
 
 										<div class="b-password-strength">
 											<div class="b-password-strength__bar"></div>
@@ -3075,18 +3090,18 @@
 							<td class="menu-best-comm">
 				
 				<div class="menu-story-link">
-					<a href="https://pikabu.ru/story/kak_u_menya_mashinu_ugnali_i_kak_ya_ee_nashelistoriya_s_pechalnyim_kontsom_5570746">Как у меня машину угнали, и как я ее нашел...История с печальным концом.</a>
+					<a href="https://pikabu.ru/story/nechto_strannoe_u_beregov_yaponii_5571316">Нечто странное у берегов Японии</a>
 				</div>
 				<div class="info info_c menu-comm-head">
-                    <h6>+1429</h6>&nbsp;
-                    <a href="https://pikabu.ru/profile/mooduckduck">mooduckduck</a>; <a style="text-decoration: none;"
-                        class="detailDate" href="javascript:void(0)" title="1513707267">23 часа назад</a>
-                    <a href="https://pikabu.ru/story/kak_u_menya_mashinu_ugnali_i_kak_ya_ee_nashelistoriya_s_pechalnyim_kontsom_5570746#comment_102710354" title="ссылка на данный комментарий">#</a>
+                    <h6>+997</h6>&nbsp;
+                    <a href="https://pikabu.ru/profile/streetbUrNer">streetbUrNer</a>; <a style="text-decoration: none;"
+                        class="detailDate" href="javascript:void(0)" title="1513721783">20 часов назад</a>
+                    <a href="https://pikabu.ru/story/nechto_strannoe_u_beregov_yaponii_5571316#comment_102725647" title="ссылка на данный комментарий">#</a>
 				</div>
                 <div class="comment_msg comment_desc menu-comm-desc">
 					
 				<div class="b-comment-best" data-overflow="0">
-					<p>Купленные менты? Вы это серьёзно? Мне кажется, что многие люди ходят по Земле, но при этом мыслями где-то на Марсе.</p><p>Вы действительно не понимаете, что уже <b>произошло </b>объединение силовиков с криминалитетом, усиление церкви с её скрепами и превращение власти в клуб друзей и родственников?</p><p>И пусть меня обвиняют в раскачивание лодки.</p>
+					Пластырь, залепляющий дыры, откуда кайдзю лезут.
 				</div>
 			
                 </div>
@@ -3100,13 +3115,13 @@
 					<tr width="100%">
 					<td style="width: auto; font-size: 13px; text-align: center">
 			
-					<div id="adfox_1513793322_1_1"></div>
+					<div id="adfox_1513796272_1_1"></div>
 					<script>
 						(function () {
 	                        try {
 							    window.Ya.adfoxCode.create({
 							        ownerId: 260477,
-							        containerId: "adfox_1513793322_1_1",
+							        containerId: "adfox_1513796272_1_1",
 							        params: {p1:"bymrm",p2:"frtk"}
 							    });
 						    } catch (e) {
@@ -3209,26 +3224,26 @@
 						</div>
 					
 						<div class="b-community-line">
+							<a href="/community/business">
+								<img src="https://cs8.pikabu.ru/images/community/1134/151266803622947934.png" alt="">
+								<span class="b-community-line__name">Бизнес</span>
+					<span class="b-community-line__up"><i class="fa fa-long-arrow-up" aria-hidden="true"></i>5</span>
+							</a>
+						</div>
+					
+						<div class="b-community-line">
 							<a href="/community/auto">
 								<img src="https://cs8.pikabu.ru/images/community/303/1486995261259568829.png" alt="">
 								<span class="b-community-line__name">Автомобильное сообщество</span>
-					
+					<span class="b-community-line__down"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>1</span>
 							</a>
 						</div>
 					
 						<div class="b-community-line">
-							<a href="/community/novosti">
-								<img src="https://cs8.pikabu.ru/images/community/506/1470656486293795641.png" alt="">
-								<span class="b-community-line__name">Новости</span>
-					
-							</a>
-						</div>
-					
-						<div class="b-community-line">
-							<a href="/community/seamen">
-								<img src="https://cs8.pikabu.ru/images/community/1012/147836745823242285.png" alt="">
-								<span class="b-community-line__name">Сообщество моряков</span>
-					<span class="b-community-line__up"><i class="fa fa-long-arrow-up" aria-hidden="true"></i>1</span>
+							<a href="/community/story">
+								<img src="https://cs8.pikabu.ru/images/community/398/1509009650241422417.png" alt="">
+								<span class="b-community-line__name">Авторские истории</span>
+					<span class="b-community-line__up"><i class="fa fa-long-arrow-up" aria-hidden="true"></i>2</span>
 							</a>
 						</div>
 					
@@ -3261,6 +3276,12 @@
 							</div>
 						
 							<div class="allMenuTags">
+								<a class="no_ch" href="https://pikabu.ru/tag/кинотеатр/hot"><span
+									class="tag no_ch">кинотеатр</span>
+								<span class="tag_count">8</span></a>
+							</div>
+						
+							<div class="allMenuTags">
 								<a class="no_ch" href="https://pikabu.ru/tag/помогите найти книгу/hot"><span
 									class="tag no_ch">помогите найти книгу</span>
 								<span class="tag_count">6</span></a>
@@ -3282,13 +3303,13 @@
 				
 				<div style="overflow: hidden; margin-top: 10px; margin-left: 20px; width: 240px; height: 400px">
 			
-					<div id="adfox_1513793322_2_1"></div>
+					<div id="adfox_1513796272_2_1"></div>
 					<script>
 						(function () {
 	                        try {
 							    window.Ya.adfoxCode.create({
 							        ownerId: 260477,
-							        containerId: "adfox_1513793322_2_1",
+							        containerId: "adfox_1513796272_2_1",
 							        params: {p1:"bymrk",p2:"frtj"}
 							    });
 						    } catch (e) {
@@ -3430,9 +3451,9 @@
 						<div>
 							<div class="footer-pechenka">
 								<div id="brovdiv">
-				<a href="https://pikabu.ru/story/_4648604">
-					<img id="brov" style="" src="https://cs.pikabu.ru/images/fun/jerk13_v2.png"
-						title="Печенька [by jerk13]">
+				<a href="https://pikabu.ru/story/_4068384">
+					<img id="brov" style="" src="https://cs.pikabu.ru/images/fun/EPICnickname_gb.png"
+						title="Печенька [by EPICnickname]">
 				</a>
 			</div>
 							</div>
@@ -3501,7 +3522,7 @@
 						</div>
 					</a>
 				
-				<div style="display:none" id="comment_3963146">
+				<div style="display:none" id="comment_2184128">
 				    <div class="b-comment__body">
 				        <span style="color: rgb(136, 136, 136)"></span>
 				    </div>
