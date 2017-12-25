@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- (c) Art. Lebedev Studio | http://www.artlebedev.ru/ -->
-<html data-data='{"auth":{"status":"false"}}' class='no-js  logged_out' onclick='return {"vsepostoShortData": [],"lototronTranslation":{"buttonText":"Смотреть онлайн","hideNotifications":"Не показывать уведомления","disbledOnUrls":["/live","/6x49/game","/5x36plus/game","/4x20/game","/6x45/game","/7x49/game","/6x36/game"],"gamesData":[{"game":"5x36plus","remainingSeconds":7268,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"6x45","remainingSeconds":3728,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"6x49","remainingSeconds":1928,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"7x49","remainingSeconds":178328,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"4x20","remainingSeconds":128,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"6x36","remainingSeconds":244328,"link":"/live?int\u003dlototron-pop-up-translation"}],"title":"Начинается трансляция розыгрыша","timeInSeconds":79071,"url":"/get_next_lototron_translation?callback\u003d?"},"otherGames":{"ticketForms":["билет","билета","билетов"],"partiForms":["Участвует","Участвуют","Участвуют"],"gamesData":[{"abbr":"ruslotto","couponsCount":0},{"abbr":"gzhl","couponsCount":0},{"abbr":"6x36","couponsCount":0},{"abbr":"zp","couponsCount":0},{"abbr":"bingo80","couponsCount":0},{"abbr":"5x36","couponsCount":0},{"abbr":"ny5x36","couponsCount":0},{"abbr":"6x45","couponsCount":0},{"abbr":"ny6x45","couponsCount":0},{"abbr":"6x49","couponsCount":0},{"abbr":"7x49","couponsCount":0},{"abbr":"12x24","couponsCount":0},{"abbr":"4x20","couponsCount":0},{"abbr":"5x36plus","couponsCount":0},{"abbr":"5x50","couponsCount":0}]},"quicksGames":{"rapido":{"remainingSeconds":1568,"couponsCount":0},"game12x24":{"remainingSeconds":128,"couponsCount":0},"duel":{"remainingSeconds":79328,"couponsCount":0},"top3":{"remainingSeconds":848,"couponsCount":0},"ticketForms":["билет","билета","билетов"],"keno":{"remainingSeconds":308,"couponsCount":0},"partiForms":["Участвует","Участвуют","Участвуют"],"url":"//s.stoloto.ru/fastgames/info/all-game-draw-time?callback\u003d?","talon":{"remainingSeconds":488,"couponsCount":0}}}' data-vseposto-vi='{"date":"4 мая 2016","prizeImages":[{"url":"//static.stoloto.ru/media/images/original/original922538104.jpg","title":"Розыгрыш Планшет iPad Air 2 64Gb Wi-Fi + Cellular"}],"drawNumber":473,"numbers":[[0,0,7,6]]}' data-one-click='{"offerAccepted":false,"disabled":false,"favoritesSets":{}}'>
+<html data-data='{"auth":{"status":"false"}}' class='no-js  logged_out' onclick='return {"vsepostoShortData": [],"lototronTranslation":{"buttonText":"Смотреть онлайн","hideNotifications":"Не показывать уведомления","disbledOnUrls":["/live","/6x49/game","/5x36plus/game","/4x20/game","/6x45/game","/7x49/game","/6x36/game"],"gamesData":[{"game":"5x36plus","remainingSeconds":9672,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"6x45","remainingSeconds":38472,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"6x49","remainingSeconds":15072,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"7x49","remainingSeconds":126672,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"4x20","remainingSeconds":207672,"link":"/live?int\u003dlototron-pop-up-translation"},{"game":"6x36","remainingSeconds":192672,"link":"/live?int\u003dlototron-pop-up-translation"}],"title":"Начинается трансляция розыгрыша","timeInSeconds":44327,"url":"/get_next_lototron_translation?callback\u003d?"},"otherGames":{"ticketForms":["билет","билета","билетов"],"partiForms":["Участвует","Участвуют","Участвуют"],"gamesData":[{"abbr":"ruslotto","couponsCount":0},{"abbr":"gzhl","couponsCount":0},{"abbr":"6x36","couponsCount":0},{"abbr":"zp","couponsCount":0},{"abbr":"bingo80","couponsCount":0},{"abbr":"5x36","couponsCount":0},{"abbr":"ny5x36","couponsCount":0},{"abbr":"6x45","couponsCount":0},{"abbr":"ny6x45","couponsCount":0},{"abbr":"6x49","couponsCount":0},{"abbr":"7x49","couponsCount":0},{"abbr":"12x24","couponsCount":0},{"abbr":"4x20","couponsCount":0},{"abbr":"5x36plus","couponsCount":0},{"abbr":"5x50","couponsCount":0}]},"quicksGames":{"rapido":{"remainingSeconds":312,"couponsCount":0},"game12x24":{"remainingSeconds":672,"couponsCount":0},"duel":{"remainingSeconds":27672,"couponsCount":0},"top3":{"remainingSeconds":492,"couponsCount":0},"ticketForms":["билет","билета","билетов"],"keno":{"remainingSeconds":852,"couponsCount":0},"partiForms":["Участвует","Участвуют","Участвуют"],"url":"//s.stoloto.ru/fastgames/info/all-game-draw-time?callback\u003d?","talon":{"remainingSeconds":1932,"couponsCount":0}}}' data-vseposto-vi='{"date":"4 мая 2016","prizeImages":[{"url":"//static.stoloto.ru/media/images/original/original922538104.jpg","title":"Розыгрыш Планшет iPad Air 2 64Gb Wi-Fi + Cellular"}],"drawNumber":473,"numbers":[[0,0,7,6]]}' data-one-click='{"offerAccepted":false,"disabled":false,"favoritesSets":{}}'>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel="manifest" href="/media/stoloto/push/chrome-manifest.json"/>
@@ -74,7 +74,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-44214555-1', 'auto');
 ga('require', 'displayfeatures');
 ga('require', 'linkid', 'linkid.js');
-ga('set', '&uid', '58330392');
+ga('set', '&uid', '');
 ga('send', 'pageview');
 ga('require', 'ecommerce');
 
@@ -378,7 +378,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!--div class="item"><div class="promobanner type_promo2 default"><div class="bg bg_default"><div class="pattern"></div></div><div class="promobanner_content"><div class="col1"><img src="/f/media/stoloto/profile/badges/big/gift.png"  alt="logo1"></div><div class="col2"><h3>Подписка на лотерею</h3><p>Любимая комбинация всегда рядом. Вы&nbsp;не&nbsp;пропустите ничего!</p><a href="/promo/bet-subscription?int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src="/f/1/gosloto/home/moneta.png" alt="img1"></div></div></div></div></div-->
 
-<!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/files/i/b/main_banner-FRK-milliard-bg.jpg" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/files/i/b/main-banner-podarit-bilet-logo.png" alt="logo"></div><div class="col2" style="color:#000"><h3>52&nbsp;568&nbsp;328&nbsp;237&nbsp;₽</h3><p>выплачено победителям. Участвуйте!</p><a href=" //www.stoloto.ru/4x20/game?bm=1mlrd_v_mesyats&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/files/i/b/main_banner-FRK-milliard-img.png" alt="img1"></div></div></div></div></div-->
+<!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/files/i/b/main_banner-FRK-milliard-bg.jpg" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/files/i/b/main-banner-podarit-bilet-logo.png" alt="logo"></div><div class="col2" style="color:#000"><h3>52&nbsp;589&nbsp;346&nbsp;562&nbsp;₽</h3><p>выплачено победителям. Участвуйте!</p><a href=" //www.stoloto.ru/4x20/game?bm=1mlrd_v_mesyats&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/files/i/b/main_banner-FRK-milliard-img.png" alt="img1"></div></div></div></div></div-->
 
 
 
@@ -388,14 +388,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/files/i/b/main_Prikup-lucky-fon2.png" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/files/i/b/main_Prikup-lucky-logo.png" alt="logo"></div><div class="col2"><h3>Суперприз 1&nbsp;415&nbsp;640&nbsp;&#8381;</h3><p>Сдайте 8&nbsp;счастливых карт и&nbsp;выигрывайте!</p><a href=" //www.stoloto.ru/quickgames/talon?bm=prikup_1mln_020817&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/files/i/b/main_Prikup-lucky-img2.png" alt="img1"></div></div></div></div></div-->
+<!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/files/i/b/main_Prikup-lucky-fon2.png" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/files/i/b/main_Prikup-lucky-logo.png" alt="logo"></div><div class="col2"><h3>Суперприз 1&nbsp;447&nbsp;740&nbsp;&#8381;</h3><p>Сдайте 8&nbsp;счастливых карт и&nbsp;выигрывайте!</p><a href=" //www.stoloto.ru/quickgames/talon?bm=prikup_1mln_020817&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/files/i/b/main_Prikup-lucky-img2.png" alt="img1"></div></div></div></div></div-->
 <!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/files/i/b/banner-420-645-749-100mln-fon.png" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/files/i/b/banner-420-645-749-100mln-logo.png" alt="logo"></div><div class="col2" style="color:#000"><h3>Суперпризы от 100&nbsp;млн&nbsp;&#8381;</h3><p>Выиграйте в&nbsp;трёх лотереях &laquo;Гослото&raquo;!</p><a href=" //www.stoloto.ru/packet/14?bm=100mln_v3loteryakh&int=car_main​" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/files/i/b/banner-420-645-749-100mln-img.png" alt="img1"></div></div></div></div></div-->
 
 <!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/files/i/b/banner-420-645-100mln-bg.jpg" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/files/i/b/gosloto-cup-logo.png" alt="logo"></div><div class="col2" style="color:#000"><h3>Суперпризы от 100&nbsp;000&nbsp;000&nbsp;&#8381;</h3><p>Выиграйте в&nbsp;&laquo;Гослото &laquo;4&nbsp;из&nbsp;20&raquo; и&nbsp;&laquo;Гослото &laquo;6&nbsp;из&nbsp;45&raquo;</p><a href=" //www.stoloto.ru/packet/13?bm=100ml_6x45&4x20&int=car_main​" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/files/i/b/banner-420-645-100mln-img2.png" alt="img1"></div></div></div></div></div-->
 
-<!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/media/images/original/original1497791438.jpg" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/media/images/original/original1497792182.jpg"></div><div class="col2" style="color:#000"><h3>Суперприз 33&nbsp;002&nbsp;383&nbsp;&#8381;</h3><p>Покупайте билеты и&nbsp;выигрывайте!</p><a href=" //www.stoloto.ru/4x20/game?bm=4x20_100mln_010817&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/media/images/original/original1497792418.jpg" alt="img1"></div></div></div></div></div-->
+<!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/media/images/original/original1497791438.jpg" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/media/images/original/original1497792182.jpg"></div><div class="col2" style="color:#000"><h3>Суперприз 35&nbsp;021&nbsp;309&nbsp;&#8381;</h3><p>Покупайте билеты и&nbsp;выигрывайте!</p><a href=" //www.stoloto.ru/4x20/game?bm=4x20_100mln_010817&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/media/images/original/original1497792418.jpg" alt="img1"></div></div></div></div></div-->
 
-<!--div class="item"><div class="promobanner type_promo5 default"><div class="bg bg_default"><div class="pattern"></div></div><div class="promobanner_content"><div class="col1"><div class="iconic iconic-wincup"></div></div><div class="col2"><h3>52&nbsp;568&nbsp;328&nbsp;237&nbsp;₽</h3><p>Выиграли участники государственных лотерей</p><a target="_blank" href=" //www.stoloto.ru/press/news/2017/06/08/pobeditelji-vyigrali-40-mlrd-rublej?bm=all_win&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src="/f/media/stoloto/home/landing/banner_win_sub_bg.png" alt=""></div></div></div></div></div-->
+<!--div class="item"><div class="promobanner type_promo5 default"><div class="bg bg_default"><div class="pattern"></div></div><div class="promobanner_content"><div class="col1"><div class="iconic iconic-wincup"></div></div><div class="col2"><h3>52&nbsp;589&nbsp;346&nbsp;562&nbsp;₽</h3><p>Выиграли участники государственных лотерей</p><a target="_blank" href=" //www.stoloto.ru/press/news/2017/06/08/pobeditelji-vyigrali-40-mlrd-rublej?bm=all_win&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src="/f/media/stoloto/home/landing/banner_win_sub_bg.png" alt=""></div></div></div></div></div-->
 
 <!--div class="item"><div class="promobanner type_promo5"><div class="bg"><img src=" //www.stoloto.ru/files/i/b/main-banner-podarit-bilet-bg.jpg" alt="bg1"></div><div class="promobanner_content"><div class="col1"><img src=" //www.stoloto.ru/files/i/b/main-banner-podarit-bilet-logo.png"></div><div class="col2" style="color:#000"><h3>Дарите билеты друзьям</h3><p>и удача ответит вам!</p><a href=" //www.stoloto.ru/podari-bilet/new?bm=podari-bilet&int=car_main" class="promobanner_link"></a></div><div class="col3"><div class="sub_bg"><img src=" //www.stoloto.ru/files/i/b/main-banner-podarit-bilet-img.png" alt="img1"></div></div></div></div></div-->
 
@@ -470,7 +470,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 						<div class="bg"></div>
 					</div>
 															
-					<div class="countdown days_left" onclick='return {"url":"/fastgames/info/game-draw-time?game=ruslotto","daysMode":true,"showDays":false,"remainingSeconds":990157}'>
+					<div class="countdown days_left" onclick='return {"url":"/fastgames/info/game-draw-time?game=ruslotto","daysMode":true,"showDays":false,"remainingSeconds":938484}'>
 						<div class="day_counter">
 							<div class="days"></div>
 							<div class="time">До окончания продаж билетов
@@ -628,7 +628,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '7x49-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":178328,"draw":1736987905}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":126672,"draw":1736987905}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -643,7 +643,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			2 д.	</span>
+			1 д.	</span>
 																														</span>
 								</p>
 							</div>
@@ -698,7 +698,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '4x20-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":128,"draw":1734920094}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":207672,"draw":1738634166}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -709,11 +709,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">153</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">154</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						2 мин.			</span>
+			2 д.	</span>
 																														</span>
 								</p>
 							</div>
@@ -735,7 +735,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														33&nbsp;002&nbsp;383 ₽
+																														35&nbsp;021&nbsp;309 ₽
 																											</span>
 							</h3>
 											
@@ -767,7 +767,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '5x36plus-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":7268,"draw":1738518746}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":9672,"draw":1739565506}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -778,7 +778,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">7733</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">7735</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
@@ -807,7 +807,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 																																																																					3&nbsp;000&nbsp;000 ₽
 													
 																																							<span class="sub_prize">
-																															Приз 1&nbsp;598&nbsp;940 ₽
+																															Приз 1&nbsp;779&nbsp;660 ₽
 																													</span>
 													
 																																																													</span>
@@ -841,7 +841,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '6x45-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":3728,"draw":1737473561}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":38472,"draw":1739450512}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -852,11 +852,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">3370</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">3372</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			1 ч.	</span>
+			10 ч.	</span>
 																														</span>
 								</p>
 							</div>
@@ -878,7 +878,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														115&nbsp;229&nbsp;967 ₽
+																														116&nbsp;978&nbsp;065 ₽
 																											</span>
 							</h3>
 											
@@ -909,11 +909,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">26354</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">26356</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						32 мин.			</span>
+			4 ч.	</span>
 																														</span>
 								</p>
 							</div>
@@ -935,7 +935,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														32&nbsp;130&nbsp;051 ₽
+																														32&nbsp;398&nbsp;534 ₽
 																											</span>
 							</h3>
 											
@@ -1217,7 +1217,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '6x36-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":244328,"draw":1730969407}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":192672,"draw":1730969407}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -1321,11 +1321,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">105664</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">105720</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						26 мин.			</span>
+						5 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -1347,7 +1347,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														1&nbsp;164&nbsp;477 ₽
+																														1&nbsp;435&nbsp;793 ₽
 																											</span>
 							</h3>
 											
@@ -1378,11 +1378,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">80687</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">80742</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						2 мин.			</span>
+						11 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -1404,7 +1404,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														1&nbsp;516&nbsp;740 ₽
+																														1&nbsp;558&nbsp;110 ₽
 																											</span>
 							</h3>
 											
@@ -1439,7 +1439,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			22 ч.	</span>
+			7 ч.	</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -1492,11 +1492,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">54206</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">54261</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						8 мин.			</span>
+						32 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -1518,7 +1518,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														1&nbsp;415&nbsp;640 ₽
+																														1&nbsp;447&nbsp;740 ₽
 																											</span>
 							</h3>
 											
@@ -1549,11 +1549,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">78457</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">78511</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			0 д.	</span>
+						8 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -1606,11 +1606,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">129113</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">129170</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						5 мин.			</span>
+			0 д.	</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -1906,7 +1906,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '7x49-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":178328,"draw":1736987905}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":126672,"draw":1736987905}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -1921,7 +1921,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			2 д.	</span>
+			1 д.	</span>
 																														</span>
 								</p>
 							</div>
@@ -1976,7 +1976,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '4x20-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":128,"draw":1734920094}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":207672,"draw":1738634166}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -1987,11 +1987,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">153</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">154</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						2 мин.			</span>
+			2 д.	</span>
 																														</span>
 								</p>
 							</div>
@@ -2013,7 +2013,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														33&nbsp;002&nbsp;383 ₽
+																														35&nbsp;021&nbsp;309 ₽
 																											</span>
 							</h3>
 											
@@ -2045,7 +2045,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '6x45-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":3728,"draw":1737473561}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":38472,"draw":1739450512}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -2056,11 +2056,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">3370</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">3372</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			1 ч.	</span>
+			10 ч.	</span>
 																														</span>
 								</p>
 							</div>
@@ -2082,7 +2082,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														115&nbsp;229&nbsp;967 ₽
+																														116&nbsp;978&nbsp;065 ₽
 																											</span>
 							</h3>
 											
@@ -2114,7 +2114,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '5x36plus-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":7268,"draw":1738518746}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":9672,"draw":1739565506}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -2125,7 +2125,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">7733</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">7735</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
@@ -2154,7 +2154,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 																																																																					3&nbsp;000&nbsp;000 ₽
 													
 																																							<span class="sub_prize">
-																															Приз 1&nbsp;598&nbsp;940 ₽
+																															Приз 1&nbsp;779&nbsp;660 ₽
 																													</span>
 													
 																																																													</span>
@@ -2329,11 +2329,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">26354</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">26356</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						32 мин.			</span>
+			4 ч.	</span>
 																														</span>
 								</p>
 							</div>
@@ -2355,7 +2355,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														32&nbsp;130&nbsp;051 ₽
+																														32&nbsp;398&nbsp;534 ₽
 																											</span>
 							</h3>
 											
@@ -2460,7 +2460,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 		<span class="pseudo video_popup_opener">
 			<div class="iconic iconic-play"  onclick="ga('send', 'event', 'serviceaction', 'click', '6x36-mainpage-video'); return true;"></div>
 		</span>
-		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":244328,"draw":1730969407}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
+		<div class="video_popup not_display stream"  data-config='{"time":900,"timeLeft":192672,"draw":1730969407}' data-content='&lt;video id="stream" class="video-js vjs-stoloto-skin" controls="true" autoplay="true" preload="auto" width="100%" height="100%" data-setup="{}"&gt;&lt;source src="//s85077.cdn.ngenix.net/live/_definst_/v1/playlist.m3u8" type="application/x-mpegURL"&gt;&lt;/source&gt;&lt;/video&gt;'>
 	<div class="fader"></div>
 	<span class="popup_close pseudo alt2 with_icon"></span>
 	<div class="content_holder"></div>
@@ -2530,11 +2530,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">78457</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">78511</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			0 д.	</span>
+						8 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -2587,11 +2587,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">105664</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">105720</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						26 мин.			</span>
+						5 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -2613,7 +2613,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														1&nbsp;164&nbsp;477 ₽
+																														1&nbsp;435&nbsp;793 ₽
 																											</span>
 							</h3>
 											
@@ -2644,11 +2644,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">129113</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">129170</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						5 мин.			</span>
+			0 д.	</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -2700,11 +2700,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">80687</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">80742</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						2 мин.			</span>
+						11 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -2726,7 +2726,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														1&nbsp;516&nbsp;740 ₽
+																														1&nbsp;558&nbsp;110 ₽
 																											</span>
 							</h3>
 											
@@ -2761,7 +2761,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-			22 ч.	</span>
+			7 ч.	</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -2814,11 +2814,11 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 															</div>
 														<div class="state_time">
 								<p class="time">
-																											<span class="draw_after">Тираж № <ins class="drawing_number">54206</ins> через </span>
+																											<span class="draw_after">Тираж № <ins class="drawing_number">54261</ins> через </span>
 									<span class="draw_in_progress">Идёт розыгрыш</span>
 									<span class="remaining">
 																					<span class="time_value">	
-						8 мин.			</span>
+						32 мин.			</span>
 											<span class="unit"> мин.</span>																			</span>
 								</p>
 							</div>
@@ -2840,7 +2840,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 									</span>
 								</span>
 								<span class="prize_sum ">
-																														1&nbsp;415&nbsp;640 ₽
+																														1&nbsp;447&nbsp;740 ₽
 																											</span>
 							</h3>
 											
@@ -2933,7 +2933,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 </script>	</div>
 	<h2 class="anchor_wizard">Подбор лотерей</h2>
 	<div class="choose_game_wrapper"
-		 data-config='{"filters":[{"property":"duration","values":[{"label":"15 мин.","value":900},{"label":"6 ч.","value":21600},{"label":"12 ч.","value":43200},{"label":"1 нед.","value":604800}]},{"property":"prize","skippedByTags":["flat"],"values":[{"label":"100 тыс.","value":100000},{"label":"3 млн.","value":3000000},{"label":"15 млн.","value":15000000},{"label":"50 млн.","value":50000000},{"label":"100 млн.","value":100000000},{"label":"300 млн.","value":300000000},{"label":"500 млн.","value":500000000}]},{"property":"stake","values":[{"label":"20 ₽","value":20},{"label":"60 ₽","value":60},{"label":"80 ₽","value":80},{"label":"100 ₽","value":100}]}],"games":[{"abbr":"7x49","id":"item_5150","stake":50,"prize":128354485,"duration":"7200","durationLabel":"2 час.","tags":["all","material"]},{"abbr":"4x20","id":"item_4420","stake":100,"prize":33002383,"duration":"172800","durationLabel":"2 дня","tags":["all","material"]},{"abbr":"6x45","id":"item_5101","stake":100,"prize":115229967,"duration":"43200","durationLabel":"12 час.","tags":["all","material"]},{"abbr":"5x36plus","id":"item_5536","stake":80,"prize":3000000,"duration":"10800","durationLabel":"3 час.","tags":["all","material"]},{"abbr":"gzhl","id":"item_7105","stake":100,"prize":16000000,"duration":"604800","durationLabel":"1 нед.","tags":["flat","tv","all"]},{"abbr":"ruslotto","id":"item_7103","stake":100,"prize":126000000,"duration":"604800","durationLabel":"1 нед.","tags":["flat","tv","all"]},{"abbr":"6x49","id":"item_5219","stake":50,"prize":32130051,"duration":"21600","durationLabel":"6 час.","tags":["all","material"]},{"abbr":"zp","id":"item_7115","stake":100,"prize":3000000,"duration":"604800","durationLabel":"1 нед.","tags":["all","flat"]},{"abbr":"6x36","id":"item_7101","stake":100,"prize":6013950,"duration":"604800","durationLabel":"1 нед.","tags":["all","material"]},{"abbr":"top3","id":"item_2177","stake":60,"prize":15000000,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"rapido","id":"item_5211","stake":60,"prize":1164477,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"keno","id":"item_1124","stake":60,"prize":10000000,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"12x24","id":"item_28001","stake":60,"prize":1516740,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"duel","id":"item_28003","stake":60,"prize":970800,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"talon","id":"item_28002","stake":60,"prize":1415640,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]}]}'>		<div class="tags">
+		 data-config='{"filters":[{"property":"duration","values":[{"label":"15 мин.","value":900},{"label":"6 ч.","value":21600},{"label":"12 ч.","value":43200},{"label":"1 нед.","value":604800}]},{"property":"prize","skippedByTags":["flat"],"values":[{"label":"100 тыс.","value":100000},{"label":"3 млн.","value":3000000},{"label":"15 млн.","value":15000000},{"label":"50 млн.","value":50000000},{"label":"100 млн.","value":100000000},{"label":"300 млн.","value":300000000},{"label":"500 млн.","value":500000000}]},{"property":"stake","values":[{"label":"20 ₽","value":20},{"label":"60 ₽","value":60},{"label":"80 ₽","value":80},{"label":"100 ₽","value":100}]}],"games":[{"abbr":"7x49","id":"item_5150","stake":50,"prize":128354485,"duration":"7200","durationLabel":"2 час.","tags":["all","material"]},{"abbr":"4x20","id":"item_4420","stake":100,"prize":35021309,"duration":"172800","durationLabel":"2 дня","tags":["all","material"]},{"abbr":"6x45","id":"item_5101","stake":100,"prize":116978065,"duration":"43200","durationLabel":"12 час.","tags":["all","material"]},{"abbr":"5x36plus","id":"item_5536","stake":80,"prize":3000000,"duration":"10800","durationLabel":"3 час.","tags":["all","material"]},{"abbr":"gzhl","id":"item_7105","stake":100,"prize":16000000,"duration":"604800","durationLabel":"1 нед.","tags":["flat","tv","all"]},{"abbr":"ruslotto","id":"item_7103","stake":100,"prize":126000000,"duration":"604800","durationLabel":"1 нед.","tags":["flat","tv","all"]},{"abbr":"6x49","id":"item_5219","stake":50,"prize":32398534,"duration":"21600","durationLabel":"6 час.","tags":["all","material"]},{"abbr":"zp","id":"item_7115","stake":100,"prize":3000000,"duration":"604800","durationLabel":"1 нед.","tags":["all","flat"]},{"abbr":"6x36","id":"item_7101","stake":100,"prize":6013950,"duration":"604800","durationLabel":"1 нед.","tags":["all","material"]},{"abbr":"top3","id":"item_2177","stake":60,"prize":15000000,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"rapido","id":"item_5211","stake":60,"prize":1435793,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"keno","id":"item_1124","stake":60,"prize":10000000,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"12x24","id":"item_28001","stake":60,"prize":1558110,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"duel","id":"item_28003","stake":60,"prize":970800,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]},{"abbr":"talon","id":"item_28002","stake":60,"prize":1447740,"duration":"900","durationLabel":"15 мин.","tags":["all","money"]}]}'>		<div class="tags">
 			<ul class="tabs_switcher">
 				<li class="for_all selected"><span class="pseudo">Все</span></li>
 				<li class="for_material"><span class="pseudo">Многомиллионные выигрыши</span></li>
@@ -3278,7 +3278,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
 </section>
 		<section class="stats_info sortable" id="stats_info_section"><h2 class="anchor_stats">Статистика выпадения чисел</h2>
 	<div class="stats_table_wrapper"
-		 data-config='{"url":"/get-stat-by-game","statsTable":[{"name":"Все числа","numbers":[{"number":1,"amount":433,"days":1,"desc":"Выпадало 433 раз, последний раз 1 дней назад  "},{"number":2,"amount":420,"days":8,"desc":"Выпадало 420 раз, последний раз 8 дней назад  "},{"number":3,"amount":479,"days":9,"desc":"Выпадало 479 раз, последний раз 9 дней назад  "},{"number":4,"amount":458,"days":6,"desc":"Выпадало 458 раз, последний раз 6 дней назад  "},{"number":5,"amount":460,"days":4,"desc":"Выпадало 460 раз, последний раз 4 дней назад  "},{"number":6,"amount":435,"days":6,"desc":"Выпадало 435 раз, последний раз 6 дней назад  "},{"number":7,"amount":449,"days":2,"desc":"Выпадало 449 раз, последний раз 2 дней назад  "},{"number":8,"amount":428,"days":1,"desc":"Выпадало 428 раз, последний раз 1 дней назад  "},{"number":9,"amount":438,"days":2,"desc":"Выпадало 438 раз, последний раз 2 дней назад  "},{"number":10,"amount":463,"days":4,"desc":"Выпадало 463 раз, последний раз 4 дней назад  "},{"number":11,"amount":454,"days":5,"desc":"Выпадало 454 раз, последний раз 5 дней назад  "},{"number":12,"amount":429,"days":1,"desc":"Выпадало 429 раз, последний раз 1 дней назад  "},{"number":13,"amount":435,"days":2,"desc":"Выпадало 435 раз, последний раз 2 дней назад  "},{"number":14,"amount":441,"days":2,"desc":"Выпадало 441 раз, последний раз 2 дней назад  "},{"number":15,"amount":468,"days":4,"desc":"Выпадало 468 раз, последний раз 4 дней назад  "},{"number":16,"amount":457,"days":6,"desc":"Выпадало 457 раз, последний раз 6 дней назад  "},{"number":17,"amount":465,"days":1,"desc":"Выпадало 465 раз, последний раз 1 дней назад  "},{"number":18,"amount":481,"days":1,"desc":"Выпадало 481 раз, последний раз 1 дней назад  "},{"number":19,"amount":453,"days":11,"desc":"Выпадало 453 раз, последний раз 11 дней назад  "},{"number":20,"amount":435,"days":1,"desc":"Выпадало 435 раз, последний раз 1 дней назад  "},{"number":21,"amount":458,"days":4,"desc":"Выпадало 458 раз, последний раз 4 дней назад  "},{"number":22,"amount":432,"days":4,"desc":"Выпадало 432 раз, последний раз 4 дней назад  "},{"number":23,"amount":437,"days":3,"desc":"Выпадало 437 раз, последний раз 3 дней назад  "},{"number":24,"amount":431,"days":8,"desc":"Выпадало 431 раз, последний раз 8 дней назад  "},{"number":25,"amount":475,"days":3,"desc":"Выпадало 475 раз, последний раз 3 дней назад  "},{"number":26,"amount":443,"days":7,"desc":"Выпадало 443 раз, последний раз 7 дней назад  "},{"number":27,"amount":449,"days":11,"desc":"Выпадало 449 раз, последний раз 11 дней назад  "},{"number":28,"amount":478,"days":1,"desc":"Выпадало 478 раз, последний раз 1 дней назад  "},{"number":29,"amount":451,"days":2,"desc":"Выпадало 451 раз, последний раз 2 дней назад  "},{"number":30,"amount":441,"days":13,"desc":"Выпадало 441 раз, последний раз 13 дней назад  "},{"number":31,"amount":416,"days":5,"desc":"Выпадало 416 раз, последний раз 5 дней назад  "},{"number":32,"amount":465,"days":5,"desc":"Выпадало 465 раз, последний раз 5 дней назад  "},{"number":33,"amount":448,"days":7,"desc":"Выпадало 448 раз, последний раз 7 дней назад  "},{"number":34,"amount":442,"days":1,"desc":"Выпадало 442 раз, последний раз 1 дней назад  "},{"number":35,"amount":445,"days":9,"desc":"Выпадало 445 раз, последний раз 9 дней назад  "},{"number":36,"amount":447,"days":2,"desc":"Выпадало 447 раз, последний раз 2 дней назад  "},{"number":37,"amount":455,"days":1,"desc":"Выпадало 455 раз, последний раз 1 дней назад  "},{"number":38,"amount":477,"days":2,"desc":"Выпадало 477 раз, последний раз 2 дней назад  "},{"number":39,"amount":451,"days":3,"desc":"Выпадало 451 раз, последний раз 3 дней назад  "},{"number":40,"amount":424,"days":3,"desc":"Выпадало 424 раз, последний раз 3 дней назад  "},{"number":41,"amount":441,"days":3,"desc":"Выпадало 441 раз, последний раз 3 дней назад  "},{"number":42,"amount":428,"days":1,"desc":"Выпадало 428 раз, последний раз 1 дней назад  "},{"number":43,"amount":468,"days":1,"desc":"Выпадало 468 раз, последний раз 1 дней назад  "},{"number":44,"amount":479,"days":2,"desc":"Выпадало 479 раз, последний раз 2 дней назад  "},{"number":45,"amount":446,"days":4,"desc":"Выпадало 446 раз, последний раз 4 дней назад  "}]},{"name":"Пары чисел","mode":"doubled","numbers":[{"number":3,"amount":75,"days":5,"desc":"Выпадало 75 раз"},{"number":25,"amount":75,"days":5,"desc":"Выпадало 75 раз"},{"number":10,"amount":73,"days":5,"desc":"Выпадало 73 раз"},{"number":11,"amount":73,"days":5,"desc":"Выпадало 73 раз"},{"number":5,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":15,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":18,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":37,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":36,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":37,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":28,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":43,"amount":71,"days":5,"desc":"Выпадало 71 раз"}]}]}'>		<div class="stats_controls">
+		 data-config='{"url":"/get-stat-by-game","statsTable":[{"name":"Все числа","numbers":[{"number":1,"amount":435,"days":1,"desc":"Выпадало 435 раз, последний раз 1 дней назад  "},{"number":2,"amount":421,"days":1,"desc":"Выпадало 421 раз, последний раз 1 дней назад  "},{"number":3,"amount":480,"days":1,"desc":"Выпадало 480 раз, последний раз 1 дней назад  "},{"number":4,"amount":458,"days":7,"desc":"Выпадало 458 раз, последний раз 7 дней назад  "},{"number":5,"amount":460,"days":5,"desc":"Выпадало 460 раз, последний раз 5 дней назад  "},{"number":6,"amount":435,"days":7,"desc":"Выпадало 435 раз, последний раз 7 дней назад  "},{"number":7,"amount":450,"days":1,"desc":"Выпадало 450 раз, последний раз 1 дней назад  "},{"number":8,"amount":428,"days":2,"desc":"Выпадало 428 раз, последний раз 2 дней назад  "},{"number":9,"amount":439,"days":1,"desc":"Выпадало 439 раз, последний раз 1 дней назад  "},{"number":10,"amount":463,"days":5,"desc":"Выпадало 463 раз, последний раз 5 дней назад  "},{"number":11,"amount":454,"days":6,"desc":"Выпадало 454 раз, последний раз 6 дней назад  "},{"number":12,"amount":429,"days":2,"desc":"Выпадало 429 раз, последний раз 2 дней назад  "},{"number":13,"amount":435,"days":3,"desc":"Выпадало 435 раз, последний раз 3 дней назад  "},{"number":14,"amount":441,"days":3,"desc":"Выпадало 441 раз, последний раз 3 дней назад  "},{"number":15,"amount":468,"days":5,"desc":"Выпадало 468 раз, последний раз 5 дней назад  "},{"number":16,"amount":457,"days":7,"desc":"Выпадало 457 раз, последний раз 7 дней назад  "},{"number":17,"amount":465,"days":2,"desc":"Выпадало 465 раз, последний раз 2 дней назад  "},{"number":18,"amount":481,"days":2,"desc":"Выпадало 481 раз, последний раз 2 дней назад  "},{"number":19,"amount":453,"days":12,"desc":"Выпадало 453 раз, последний раз 12 дней назад  "},{"number":20,"amount":435,"days":2,"desc":"Выпадало 435 раз, последний раз 2 дней назад  "},{"number":21,"amount":458,"days":5,"desc":"Выпадало 458 раз, последний раз 5 дней назад  "},{"number":22,"amount":432,"days":5,"desc":"Выпадало 432 раз, последний раз 5 дней назад  "},{"number":23,"amount":437,"days":4,"desc":"Выпадало 437 раз, последний раз 4 дней назад  "},{"number":24,"amount":431,"days":9,"desc":"Выпадало 431 раз, последний раз 9 дней назад  "},{"number":25,"amount":476,"days":1,"desc":"Выпадало 476 раз, последний раз 1 дней назад  "},{"number":26,"amount":444,"days":1,"desc":"Выпадало 444 раз, последний раз 1 дней назад  "},{"number":27,"amount":449,"days":12,"desc":"Выпадало 449 раз, последний раз 12 дней назад  "},{"number":28,"amount":478,"days":2,"desc":"Выпадало 478 раз, последний раз 2 дней назад  "},{"number":29,"amount":451,"days":3,"desc":"Выпадало 451 раз, последний раз 3 дней назад  "},{"number":30,"amount":442,"days":1,"desc":"Выпадало 442 раз, последний раз 1 дней назад  "},{"number":31,"amount":416,"days":6,"desc":"Выпадало 416 раз, последний раз 6 дней назад  "},{"number":32,"amount":465,"days":6,"desc":"Выпадало 465 раз, последний раз 6 дней назад  "},{"number":33,"amount":448,"days":8,"desc":"Выпадало 448 раз, последний раз 8 дней назад  "},{"number":34,"amount":442,"days":2,"desc":"Выпадало 442 раз, последний раз 2 дней назад  "},{"number":35,"amount":445,"days":10,"desc":"Выпадало 445 раз, последний раз 10 дней назад  "},{"number":36,"amount":447,"days":3,"desc":"Выпадало 447 раз, последний раз 3 дней назад  "},{"number":37,"amount":456,"days":1,"desc":"Выпадало 456 раз, последний раз 1 дней назад  "},{"number":38,"amount":477,"days":3,"desc":"Выпадало 477 раз, последний раз 3 дней назад  "},{"number":39,"amount":452,"days":1,"desc":"Выпадало 452 раз, последний раз 1 дней назад  "},{"number":40,"amount":424,"days":4,"desc":"Выпадало 424 раз, последний раз 4 дней назад  "},{"number":41,"amount":441,"days":4,"desc":"Выпадало 441 раз, последний раз 4 дней назад  "},{"number":42,"amount":428,"days":2,"desc":"Выпадало 428 раз, последний раз 2 дней назад  "},{"number":43,"amount":468,"days":2,"desc":"Выпадало 468 раз, последний раз 2 дней назад  "},{"number":44,"amount":479,"days":3,"desc":"Выпадало 479 раз, последний раз 3 дней назад  "},{"number":45,"amount":447,"days":1,"desc":"Выпадало 447 раз, последний раз 1 дней назад  "}]},{"name":"Пары чисел","mode":"doubled","numbers":[{"number":3,"amount":75,"days":5,"desc":"Выпадало 75 раз"},{"number":25,"amount":75,"days":5,"desc":"Выпадало 75 раз"},{"number":10,"amount":73,"days":5,"desc":"Выпадало 73 раз"},{"number":11,"amount":73,"days":5,"desc":"Выпадало 73 раз"},{"number":5,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":15,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":18,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":37,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":36,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":37,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":28,"amount":71,"days":5,"desc":"Выпадало 71 раз"},{"number":43,"amount":71,"days":5,"desc":"Выпадало 71 раз"}]}]}'>		<div class="stats_controls">
 												<div class="game_select grid">
 				<div class="game_select_popup_opener with_icon popup_positioner" unselectable="on">
 					<div class="icon game_6x45_tiny_icon"></div>
@@ -3542,7 +3542,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                             </a>
 							    							<div class="info">
                                     <span>&laquo;Гослото &laquo;6&nbsp;из&nbsp;45&raquo;</span>
-									                                    <span class="date">20 декабря</span>
+									                                    <span class="date">21 декабря</span>
                                     <div class="count_container"></div>
                                 </div>
                                 <div class="">
@@ -3564,7 +3564,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                             </a>
 							    							<div class="info">
                                     <span>&laquo;Гослото &laquo;5&nbsp;из&nbsp;36&raquo;</span>
-									                                    <span class="date">20 декабря</span>
+									                                    <span class="date">21 декабря</span>
                                     <div class="count_container"></div>
                                 </div>
                                 <div class="">
@@ -3586,7 +3586,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                             </a>
 							    							<div class="info">
                                     <span>&laquo;Гослото &laquo;4&nbsp;из&nbsp;20&raquo;</span>
-									                                    <span class="date">20 декабря</span>
+									                                    <span class="date">23 декабря</span>
                                     <div class="count_container"></div>
                                 </div>
                                 <div class="">
@@ -3844,7 +3844,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                             </a>
 							    							<div class="info">
                                     <span>&laquo;Спортлото 6&nbsp;из&nbsp;49&raquo;</span>
-									                                    <span class="date">20 декабря</span>
+									                                    <span class="date">21 декабря</span>
                                     <div class="count_container"></div>
                                 </div>
                                 <div class="">
@@ -3870,7 +3870,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                                     <ins class="count"></ins>
                                 </div>
                             </a>
-															<span class="date">20 декабря</span>
+															<span class="date">21 декабря</span>
 								<div class="info">
                                     <span>&laquo;Гослото &laquo;6&nbsp;из&nbsp;45&raquo;</span>
                                     <div class="count_container"></div>
@@ -3892,7 +3892,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                                     <ins class="count"></ins>
                                 </div>
                             </a>
-															<span class="date">20 декабря</span>
+															<span class="date">21 декабря</span>
 								<div class="info">
                                     <span>&laquo;Гослото &laquo;5&nbsp;из&nbsp;36&raquo;</span>
                                     <div class="count_container"></div>
@@ -3914,7 +3914,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                                     <ins class="count"></ins>
                                 </div>
                             </a>
-															<span class="date">20 декабря</span>
+															<span class="date">23 декабря</span>
 								<div class="info">
                                     <span>&laquo;Гослото &laquo;4&nbsp;из&nbsp;20&raquo;</span>
                                     <div class="count_container"></div>
@@ -4172,7 +4172,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                                     <ins class="count"></ins>
                                 </div>
                             </a>
-															<span class="date">20 декабря</span>
+															<span class="date">21 декабря</span>
 								<div class="info">
                                     <span>&laquo;Спортлото 6&nbsp;из&nbsp;49&raquo;</span>
                                     <div class="count_container"></div>
@@ -4198,7 +4198,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                         </div>
 						    						<div class="right drawing">
                                 <div class="">
-									                                    <span>20 декабря</span>
+									                                    <span>21 декабря</span>
                                 </div>
                             </div>
 						                    </div>
@@ -4212,7 +4212,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                         </div>
 						    						<div class="right drawing">
                                 <div class="">
-									                                    <span>20 декабря</span>
+									                                    <span>21 декабря</span>
                                 </div>
                             </div>
 						                    </div>
@@ -4226,7 +4226,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                         </div>
 						    						<div class="right drawing">
                                 <div class="">
-									                                    <span>20 декабря</span>
+									                                    <span>23 декабря</span>
                                 </div>
                             </div>
 						                    </div>
@@ -4394,7 +4394,7 @@ if(window.currentUser && window.currentUser.vip){$(".promobanners").hide()}
                         </div>
 						    						<div class="right drawing">
                                 <div class="">
-									                                    <span>20 декабря</span>
+									                                    <span>21 декабря</span>
                                 </div>
                             </div>
 						                    </div>

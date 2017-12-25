@@ -1,0 +1,41 @@
+With no lock
+
+Threads are  5
+Work rate is 35
+['A', 'In', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'by', 'currently', 'directly', 'extension', 'implemented', 'is', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+Work time is 0.01699995994567871
+Check:
+Strings in the file are  34
+['A', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'by', 'currently', 'directly', 'extension', 'implemented', 'is', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+
+
+Threads are  10
+Work rate is 35
+['A', 'In', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'by', 'currently', 'directly', 'extension', 'implemented', 'is', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+Work time is 0.017999887466430664
+Check:
+Strings in the file are  32
+['A', 'In', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'directly', 'extension', 'implemented', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+
+
+With Lock
+
+Threads are  5
+Work rate is 35
+['A', 'In', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'by', 'currently', 'directly', 'extension', 'implemented', 'is', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+Work time is 0.02200007438659668
+Check:
+Strings in the file are  35
+['A', 'In', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'by', 'currently', 'directly', 'extension', 'implemented', 'is', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+
+
+Threads are  10
+Work rate is 35
+['A', 'In', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'by', 'currently', 'directly', 'extension', 'implemented', 'is', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+Work time is 0.02500009536743164
+Check:
+Strings in the file are  35
+['A', 'In', 'Python,', '_thread', 'a', 'a', 'available,', 'by', 'by', 'currently', 'directly', 'extension', 'implemented', 'is', 'is', 'is', 'it', 'level', 'lock', 'locked.', 'lowest', 'module.', 'not', 'owned', 'particular', 'primitive', 'primitive', 'primitive', 'synchronization', 'synchronization', 'that', 'the', 'the', 'thread', 'when']
+
+
+Bye Bye !!!
